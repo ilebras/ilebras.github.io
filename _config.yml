@@ -1,13 +1,13 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            
-tagline:          'Isabela Astiz Le Bras'
+title:            'Isabela Astiz Le Bras
+tagline:          ''
 description:      'Postdoctoral Scholar
 		    Scripps Institution of Oceanography'
 url:              http://ilebras.github.io
