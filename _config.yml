@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Isabela Astiz Le Bras, Ph.D.
-tagline:          'Postdoctoral Scholar \n Scripps Institution of Oceanography'
-description:      ''
+title:            
+tagline:          ''
+description:      'Isabela Astiz Le Bras, Ph.D. \n Postdoctoral Scholar \n Scripps Institution of Oceanography'
 url:              http://ilebras.github.io
 baseurl:          /
 
