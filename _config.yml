@@ -6,9 +6,9 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            
+title:            ''
 tagline:          'Isabela Astiz Le Bras'
-description:      'Isabela Astiz Le Bras Follow me on twitter <a href="https://twitter.com/oceanslebrasi" target="_blank">@oceanslebrasi</a>.'
+description:      'Isabela Astiz Le Bras · Physical Oceanographer'
 url:              http://ilebras.github.io
 baseurl:          /
 
