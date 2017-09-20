@@ -6,20 +6,11 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Izi
-tagline:          'Testing'
-description:      'Totally  <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            
+tagline:          'Isabela Astiz Le Bras'
+description:      'Isabela Astiz Le Bras Follow me on twitter <a href="https://twitter.com/oceanslebrasi" target="_blank">@oceanslebrasi</a>.'
 url:              http://ilebras.github.io
 baseurl:          /
 
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
 
 paginate:         5
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
