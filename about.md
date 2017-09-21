@@ -1,30 +1,35 @@
 ---
 layout: page
-title: About
+permalink: /about/
+title: About the Theme
+tagline: A Minimal Jekyll Theme
+tags: [about, Jekyll, theme, responsive]
+modified: 9-9-2013
+comments: true
+image:
+  feature: texture-feature-02.jpg
+  credit: Virginie Moerenhout
+  creditlink: http://www.flickr.com/photos/yndra
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Minimal Jekyll Theme is a responsive Jekyll theme with large featured images and solid typography, derived from the wonderful work of [Michael Rose](http://mademistakes.com). I loved his Minimal Mistakes theme, and have tried to tune it to my needs.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+### Recent Additions
 
-There are currently two themes built on Poole:
+* Support for multiple author attribution in a blog.
+  * This includes both different authors for various posts, as well as multiple authors per post.
+* Gorgeous textures courtesy of [Virginie Moerenhout](http://www.flickr.com/photos/yndra)
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## Minimal Jeykll Theme - Key Highlights
 
-## Setup
+* Responsive templates. Looking good on mobile, tablet, and desktop.
+* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
+* Minimal embellishments --- content first.
+* Author sidebar to pimp your bio, photo[^1], and social media links.
+* Simple and clear permalink structure *(ie: domain.com/category/post-title)*
 
-Some fun facts about the setup of this project include:
+<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+[^1]: Fancy avatars provided by [Brandon Mathis](http://brandonmathis.com/projects/fancy-avatars/demo/) under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
