@@ -1,17 +1,17 @@
-title:            Site Title
-description:      Describe your website.
+title:            Isabela Le Bras
+description:      Physical Oceanographer
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              ilebras.github.io
 disqus_shortname: 
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Isabela Le Bras
   avatar:         bio-photo.jpg
   bio:            "Describe your self."
-  email:          your@email.com
+  email:          ilebras@ucsd.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        twitortat
+  twitter:        oceanslebrasi
   facebook:
   github:
   stackoverflow:
