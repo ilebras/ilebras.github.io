@@ -8,7 +8,7 @@ disqus_shortname:
 owner:
   name:           Isabela Astiz Le Bras
   avatar:         bio-photo.jpg
-  bio:            "Describe your self."
+  bio:            ""
   email:          ilebras@ucsd.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        oceanslebrasi
@@ -29,24 +29,22 @@ owner:
 # Analytics and webmaster tools stuff goes here
 google_analytics:
 google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about/
-  - title: Posts
-    url: /posts/
+  - title: Research
+    url: /research/
+  - title: Publications
+    url: /pubications/
   - title: Theme Setup
     url: /theme-setup/
-  - title: About Arvi
-    url: http://www.arg0s.in
-    external: true
+  - title: Teaching
+    url: /teaching/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Kolkota
+#timezone:    Asia/Kolkota
 future:      true
 rouge:    true
 markdown:    kramdown
