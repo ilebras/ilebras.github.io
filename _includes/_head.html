@@ -58,10 +58,6 @@
 <link href="{{ site.url }}/feed.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 {% if site.owner.google_plus %}<link rel="author" href="http://plus.google.com/+{{ site.owner.google_plus }}?rel=author">{% endif %}
 
-{% if site.google_analytics and jekyll.environment == 'production' %}
-{% include analytics.html %}
-{% endif %}
-
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
