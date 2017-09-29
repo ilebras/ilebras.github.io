@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_nopic
 description: "A responsive Jekyll theme"
 tags: [Jekyll, theme, responsive, blog, template]
 image: 
