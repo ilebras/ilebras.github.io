@@ -14,7 +14,7 @@ Currently, I am a postdoctoral scholar at [Scripps Institution of Oceanography](
 
 ---
 
-During my Ph.D. in the [-WHOI Joint Program](https://mit.whoi.edu/), I examined observations and models of the Gulf Stream and the Deep Western Boundary Current, two major currents in the North Atlantic.
+During my Ph.D. in the [MIT-WHOI Joint Program](https://mit.whoi.edu/), I examined observations and models of the Gulf Stream and the Deep Western Boundary Current, two major currents in the North Atlantic.
 
 ---
 
