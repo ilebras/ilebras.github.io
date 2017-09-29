@@ -25,6 +25,6 @@ image:
 
 **Ph.D. Thesis**
 
-* Le Bras, I. A. (2017), Dynamics of North Atlantic Western Boundary Currents, [PhD thesis](https://dspace.mit.edu/handle/1721.1/109056), MIT-WHOI Joint Program in Physical Oceanography, Woods Hole, Mass
+* **Le Bras, I. A.** (2017), Dynamics of North Atlantic Western Boundary Currents, [PhD thesis](https://dspace.mit.edu/handle/1721.1/109056), MIT-WHOI Joint Program in Physical Oceanography, Woods Hole, Mass
 
 ---
