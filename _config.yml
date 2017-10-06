@@ -1,4 +1,4 @@
-title:            Home
+title:            Isabela Astiz Le Bras
 description:      Physical Oceanographer
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              
@@ -9,6 +9,7 @@ owner:
   name:           Isabela Astiz Le Bras
   avatar:         bio-photo.jpg
   pubfig:	  publication_cake.jpg
+  resfig:	  research_boat.jpg
   bio:            ""
   email:          ilebras@ucsd.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.

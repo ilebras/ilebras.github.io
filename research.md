@@ -1,7 +1,5 @@
 ---
-layout: post-index
+layout: page_res
 permalink: /research/
-title: All Posts
-tagline: A List of Posts
-tags: [blog]
+
 ---
