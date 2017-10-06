@@ -1,4 +1,4 @@
-title:            Isabela Astiz Le Bras
+title:            Home
 description:      Physical Oceanographer
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              
@@ -8,6 +8,7 @@ disqus_shortname:
 owner:
   name:           Isabela Astiz Le Bras
   avatar:         bio-photo.jpg
+  pubfig:	  publication_cake.jpg
   bio:            ""
   email:          ilebras@ucsd.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -38,8 +39,8 @@ links:
     url: /research/
   - title: Publications
     url: /publications/
-  - title: Other
-    url: /other/
+  - title: Links
+    url: /links/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 #timezone:    Asia/Kolkota

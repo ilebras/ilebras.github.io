@@ -3,7 +3,7 @@ layout: page
 description: "A responsive Jekyll theme"
 tags: [Jekyll, theme, responsive, blog, template]
 image: 
-    feature:seaice_wider.jpg
+    feature:texture-feature-01.jpg
 ---
 
 **I am a sea-going physical oceanographer studying the large-scale circulation of the ocean.**
