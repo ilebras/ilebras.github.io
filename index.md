@@ -6,11 +6,11 @@ image:
     feature:seaice_wider.jpg
 ---
 
-**I am a physical oceanographer studying the large-scale circulation of the ocean and how it relates to the climate system.**
+**I am a sea-going physical oceanographer studying the large-scale circulation of the ocean.**
 
 ---
 
-Currently, I am a postdoctoral scholar at [Scripps Institution of Oceanography](https://scripps.ucsd.edu/) working with [Fiamma Straneo](https://twitter.com/fstraneo). I am researching the currents around Greenland to better understand how ice and freshwater impact the circulation in the high-latitude ocean. 
+Currently, I am a postdoctoral scholar at [Scripps Institution of Oceanography](https://scripps.ucsd.edu/) working with [Fiamma Straneo](https://twitter.com/fstraneo). I am researching the currents around Greenland to better understand how ice and freshwater impact the circulation of the high-latitude ocean. 
 
 ---
 
