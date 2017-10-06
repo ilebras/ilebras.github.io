@@ -6,7 +6,7 @@ image:
     feature:texture-feature-01.jpg
 ---
 
-**I am a sea-going physical oceanographer studying the large-scale circulation of the ocean.**
+**I am a sea-going physical oceanographer studying large-scale ocean circulation.**
 
 ---
 
