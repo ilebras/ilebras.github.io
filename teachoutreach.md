@@ -4,9 +4,9 @@ permalink: /teachoutreach/
 
 ---
 
-**Clubes de Ciencia**
+[<h4>Clubes de Ciencia</h4>](https://www.clubesdeciencia.mx/)
 
-I spent a week in Mexico teaching
+Clubes de Ciencia is an organization started by graduate students to provide week-long science workshops to high school and college students in Mexico. I took part in January 2015, [here](https://www.youtube.com/watch?v=qCBdvfZ3lZM) is a link to some videos about my course "Ocean phsics in a changing climate".
 
 
 ---
@@ -14,6 +14,16 @@ I spent a week in Mexico teaching
 **MPOWIR**
 
 
+
 ---
 
 **Teaching and Learning Lab**
+
+MIT's Te
+
+
+---
+
+**Graduate Climate Conference**
+
+This is a wonderful interdisciplinary conference
