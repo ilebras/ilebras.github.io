@@ -33,7 +33,7 @@ The [GCC](http://gradclimateconf.mit.edu/) is a wonderful interdisciplinary conf
 
 ## Further teaching experience
 
-* **January 2016**: Designed and taught 3 lectures of an undergraduate short-course entitled ``Anthropocene'' Woods Hole, MA
+* **January 2016**: Designed and taught three lectures of an undergraduate short-course entitled ``Anthropocene'' Woods Hole, MA
 
 * **September 2015**: Teaching assistant for Software Carpentry workshop with a focus on python. Woods Hole, MA
 
