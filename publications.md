@@ -3,7 +3,7 @@ layout: page_pubs
 description: "A responsive Jekyll theme"
 tags: [Jekyll, theme, responsive, blog, template]
 image: 
-    feature:seaice_wider.jpg
+    feature:
 ---
 
 ## Submitted/in prep
@@ -26,8 +26,6 @@ image:
 ## Grey literature
 
 * **Le Bras, I. A.** (2017), [Detours on the oceanic highway](http://www.whoi.edu/oceanus/viewArticle.do?id=189349), Oceanus Magazine
-
----
 
 ---
 

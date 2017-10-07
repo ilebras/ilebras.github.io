@@ -4,7 +4,7 @@ permalink: /presentations/
 
 ---
 
-**2017**
+## 2017
 
 * I. A. Le Bras, I. Yashayaev and J. M. Toole *Labrador Sea Water property changes along the Deep Western Boundary Current* USAMOC meeting, Santa Fe, NM *(oral presentation)*
 
@@ -16,7 +16,7 @@ permalink: /presentations/
 
 ---
 
-**2016**
+## 2016
 
 * I. A. Le Bras, I. Yashayaev, R. Curry, J. M. Toole *Line W Measurements of the Deep Western Boundary Current reflect changes in Labrador Sea Convection* Ocean Sciences Meeting, New Orleans, LA. *(poster presentation)*
 
@@ -27,7 +27,7 @@ permalink: /presentations/
 
 ---
 
-**2015**
+## 2015
 
 * I. A. Le Bras, S. Jayne, J. M. Toole *Observing and Modeling Stirring of the Deep Western Boundary Current* UCLA, Los Angeles, California *(seminar)*
 
@@ -35,7 +35,7 @@ permalink: /presentations/
 
 ---
 
-**2014**
+## 2014
 
 * I. A. Le Bras, J. M. Toole *Deep western boundary current exchange with the interior* Graduate Climate Conference, Pack Forest, WA  *(poster presentation)*
 

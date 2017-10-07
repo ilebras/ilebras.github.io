@@ -3,14 +3,14 @@ layout: page
 description: "A responsive Jekyll theme"
 tags: [Jekyll, theme, responsive, blog, template]
 image: 
-    feature:texture-feature-01.jpg
+    feature: 
 ---
 
 **I am a sea-going physical oceanographer studying the large-scale circulation of the ocean.**
 
 ---
 
-Currently, I am a postdoctoral scholar at [Scripps Institution of Oceanography](https://scripps.ucsd.edu/) working with [Fiamma Straneo](https://twitter.com/fstraneo). I am researching the currents around Greenland to better understand how ice and freshwater impact the circulation of the high-latitude ocean. 
+I am a postdoctoral scholar at [Scripps Institution of Oceanography](https://scripps.ucsd.edu/) working with [Fiamma Straneo](https://twitter.com/fstraneo). My research focuses on better understanding how ice and freshwater impact the circulation of the high-latitude ocean. 
 
 ---
 
