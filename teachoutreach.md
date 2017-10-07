@@ -4,34 +4,34 @@ permalink: /teachoutreach/
 
 ---
 
-# [**Clubes de Ciencia**](https://www.clubesdeciencia.mx/)
+# Clubes de Ciencia
 
 
-Clubes de Ciencia is an organization started by graduate students to provide week-long science workshops to high school and college students in Mexico. I took part in January 2015, [here](https://www.youtube.com/watch?v=qCBdvfZ3lZM) is a link to some videos about my course "Ocean physics in a changing climate".
-
-
----
-
-[**MPOWIR**](mpowir.org)
-
-MPOWIR stands for Mentoring Physical Oceanography Women to Increase Retention. I have benefitted enormously from its mentoring program and Patullo conference and have served on the steering committee since August 2016.
-
----
-
-[**Teaching and Learning Lab**](http://tll.mit.edu/)
-
-MIT's Teaching and Learning Lab runs a semester long teaching course for graduate students and postdocs with an emphasis on practicing modern teaching techniques. I received their teaching certificate in Spring 2014 and continue to draw on their resources.
+[Clubes de Ciencia](https://www.clubesdeciencia.mx/) is an organization started by graduate students to provide week-long science workshops to high school and college students in Mexico. I took part in January 2015, [here](https://www.youtube.com/watch?v=qCBdvfZ3lZM) is a link to some videos about my course "Ocean physics in a changing climate".
 
 
 ---
 
-**Graduate Climate Conference**
+# MPOWIR
 
-This is a wonderful interdisciplinary conference
+[MPOWIR](mpowir.org) stands for Mentoring Physical Oceanography Women to Increase Retention. I have benefitted enormously from its mentoring program and Patullo conference and have served on the steering committee since August 2016.
 
 ---
 
-**Further teaching experience**
+# Teaching and Learning Lab
+
+MIT's [Teaching and Learning Lab](http://tll.mit.edu/) runs a semester long teaching course for graduate students and postdocs with an emphasis on practicing modern teaching techniques. I received their teaching certificate in Spring 2014 and continue to draw on their resources.
+
+
+---
+
+# Graduate Climate Conference
+
+The GCC is a wonderful interdisciplinary conference
+
+---
+
+# Further teaching experience**
 
 * TA for PO
 
