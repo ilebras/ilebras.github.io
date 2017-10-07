@@ -18,9 +18,9 @@ MPOWIR stands for Mentoring Physical Oceanography Women to Increase Retention. I
 
 ---
 
-**Teaching and Learning Lab**
+[**Teaching and Learning Lab**](http://tll.mit.edu/)
 
-MIT's Te
+MIT's Teaching and Learning Lab runs a semester long teaching course for graduate students and postdocs with an emphasis on practicing modern teaching techniques. I received their teaching certificate in Spring 2014 and continue to draw on their resources.
 
 
 ---
@@ -28,3 +28,11 @@ MIT's Te
 **Graduate Climate Conference**
 
 This is a wonderful interdisciplinary conference
+
+---
+
+**Further teaching experience**
+
+* TA for PO
+
+* summer math course
