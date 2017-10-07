@@ -11,13 +11,13 @@ permalink: /teachoutreach/
 
 ---
 
-# MPOWIR
+## MPOWIR
 
 [MPOWIR](mpowir.org) stands for Mentoring Physical Oceanography Women to Increase Retention. I have benefitted enormously from its mentoring program and Patullo conference and have served on the steering committee since August 2016.
 
 ---
 
-# Teaching and Learning Lab
+## Teaching and Learning Lab
 
 MIT's [Teaching and Learning Lab](http://tll.mit.edu/) runs a semester long teaching course for graduate students and postdocs with an emphasis on practicing modern teaching techniques. I received their teaching certificate in Spring 2014 and continue to draw on their resources.
 
@@ -30,7 +30,7 @@ The [GCC](http://gradclimateconf.mit.edu/) is a wonderful interdisciplinary conf
 
 ---
 
-# Further teaching experience
+## Further teaching experience
 
 * **January 2016**: Designed and taught 3 lectures of an undergraduate short-course entitled ``Anthropocene'' Woods Hole, MA
 
