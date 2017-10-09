@@ -9,27 +9,27 @@ My research is focussed on the Atlantic Meridional Overturning Circulation (AMOC
 
 ---
 
-## Freshwater in the East Greenland Current System
+# Freshwater in the East Greenland Current System
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/osnapschem.png" alt="">
 
 As a postdoc at Scripps, I am involved in [O-SNAP](http://www.o-snap.org/), an AMOC monitoring system in the subpolar North Atlantic started in 2014. In particular, I am working with data from an array of moorings just east of Greenland, where the upper and lower limbs of the AMOC meet.
 
-My goal is to categorize the seasonal cycle in the East Greenland Current System. 
-
-With increasing amounts of freshwater entering the system from both the Arctic and Greenland, understanding the distribution of freshwater in this region and its interplay with the overturning circulation is critical.
-
-
 ---
 
-## The Deep Western Boundary Current
+# The Deep Western Boundary Current
+
+
+[<img src="{{ site.url }}{{ site.baseurl }}/images/LWmovsnap.png" alt="">](https://youtu.be/IJ0seo86qbs)
 
 [Line W](http://www.whoi.edu/science/PO/linew/)
 
-![lwmap](/images/map_noinset_WM_nodeep.pdf){:class="img-responsive"}
 
 ---
 
-## Gulf Stream Dynamics
+# Gulf Stream Dynamics
 
-![gsdyn]{{ "images/Figure11.png" | absolute_url }}
+<img src="{{ site.url }}{{ site.baseurl }}/images/modschem.png" alt="">
+
 
 ---
