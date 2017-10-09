@@ -3,6 +3,8 @@ layout: page_teach
 permalink: /teachoutreach/
 
 ---
+# 
+
 ## Clubes de Ciencia
 
 [Clubes de Ciencia](https://www.clubesdeciencia.mx/) is an organization started by graduate students to provide week-long science workshops to high school and college students in Mexico. I took part in January 2015, [here](https://www.youtube.com/watch?v=qCBdvfZ3lZM) is a link to some videos about my week-long all day course "Ocean physics in a changing climate" in Ensenada, Baja California.
