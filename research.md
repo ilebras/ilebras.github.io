@@ -24,12 +24,12 @@ With increasing amounts of freshwater entering the system from both the Arctic a
 
 [Line W](http://www.whoi.edu/science/PO/linew/)
 
-![lwmap]{{ "images/map_noinset_WM_nodeep.pdf" | absolute_url }}
+![lwmap](/images/map_noinset_WM_nodeep.pdf){:class="img-responsive"}
 
 ---
 
 ## Gulf Stream Dynamics
 
-
+![gsdyn]{{ "images/Figure11.png" | absolute_url }}
 
 ---
