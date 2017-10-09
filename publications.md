@@ -6,6 +6,8 @@ image:
     feature:
 ---
 
+{::options auto_ids="false" /}
+
 ## Submitted/in prep
 
 * **Le Bras, I. A.**, S. Jayne, and J. M. Toole, The interaction of recirculation gyres and a deep boundary current *(submitted to Journal of Physical Oceanography)*

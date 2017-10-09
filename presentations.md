@@ -4,6 +4,8 @@ permalink: /presentations/
 
 ---
 
+{::options auto_ids="false" /}
+
 ## 2017
 
 * I. A. Le Bras, I. Yashayaev and J. M. Toole *Labrador Sea Water property changes along the Deep Western Boundary Current* USAMOC meeting, Santa Fe, NM *(oral presentation)*
