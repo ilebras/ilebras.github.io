@@ -1,7 +1,7 @@
 ---
 layout: page
-description: "A responsive Jekyll theme"
-tags: [Jekyll, theme, responsive, blog, template]
+description: "Physical Oceanographer"
+tags: []
 image: 
     feature: 
 ---
