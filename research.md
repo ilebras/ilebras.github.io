@@ -25,7 +25,7 @@ My research is focussed on the Atlantic Meridional Overturning Circulation (AMOC
 
 * I was also involved in analysizing DWBC transports at Line W [*(paper link)*](http://onlinelibrary.wiley.com/doi/10.1002/2017JC012984/full).
 
-*This image links to a video highlighting the large variability in this rich dataset.*
+*This image links to a video highlighting the variability in this rich dataset.*
 
 [<img src="{{ site.url }}{{ site.baseurl }}/images/LWmovsnap.png" alt="" description="This image links to a video highlighting the large variability in this rich dataset.">](https://youtu.be/IJ0seo86qbs)
 
