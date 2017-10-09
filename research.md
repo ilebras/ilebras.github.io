@@ -21,9 +21,9 @@ My research is focussed on the Atlantic Meridional Overturning Circulation (AMOC
 
 * In graduate school, I worked on the [Line W](http://www.whoi.edu/science/PO/linew/) project, which monitored the Deep Western Boundary Current (DWBC) southeast of Cape Cod from 2004-2014. The DWBC brings cold-fresh water southwards at depth as part of the lower limb of the AMOC.
 
-* Using this and all available upstream data, I quantified DWBC travel times and stirring from the Labrador Sea to Line W, weighing in on an ongoing debate over how the deep ocean is filled with water from high latitude sources [*(paper link)*](http://onlinelibrary.wiley.com/doi/10.1002/2017JC012921/full).
+* Using this and all available upstream data, I quantified DWBC travel times and stirring from the Labrador Sea to Line W, weighing in on an ongoing debate over how the deep ocean is filled with water from high latitude sources [*(paper)*](http://onlinelibrary.wiley.com/doi/10.1002/2017JC012921/full).
 
-* I was also involved in analysizing DWBC transports at Line W [*(paper link)*](http://onlinelibrary.wiley.com/doi/10.1002/2017JC012984/full).
+* I was also involved in analysizing DWBC transports at Line W [*(paper)*](http://onlinelibrary.wiley.com/doi/10.1002/2017JC012984/full).
 
 *This image links to a video highlighting the variability in this rich dataset.*
 
