@@ -27,7 +27,7 @@ My research is focussed on the Atlantic Meridional Overturning Circulation (AMOC
 
 *This image links to a video highlighting the large variability in this rich dataset.*
 
-[<img src="{{ site.url }}{{ site.baseurl }}/images/LWmovsnap.png" alt="">](https://youtu.be/IJ0seo86qbs)
+[<img src="{{ site.url }}{{ site.baseurl }}/images/LWmovsnap.png" alt="" description="This image links to a video highlighting the large variability in this rich dataset.">](https://youtu.be/IJ0seo86qbs)
 
 ---
 
