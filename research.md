@@ -5,7 +5,7 @@ permalink: /research/
 ---
 {::options auto_ids="false" /}
 
-My research is focussed on the Atlantic Meridional Overturning Circulation (AMOC), the large-scale circulation in the Atlantic which brings warm-salty water northwards and cold-fresh water southwards. This circulation pattern is associated with heat, freshwater and carbon transports which aide to stabilize earth's climate.
+My research is focused on the Atlantic Meridional Overturning Circulation (AMOC), the large-scale circulation in the Atlantic which brings warm-salty water northwards and cold-fresh water southwards. This circulation pattern is associated with heat, freshwater and carbon transports which aide to stabilize earth's climate.
 
 ---
 
