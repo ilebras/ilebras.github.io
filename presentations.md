@@ -8,6 +8,8 @@ permalink: /presentations/
 
 ## 2017
 
+* I. A. Le Bras, N.P. Holliday and F. Straneo *Seasonality of Freshwater in East Greenland Current System* Irminger Sea Workshop, Southampton, UK *(oral presentation)*
+
 * I. A. Le Bras, S. Jayne I. Yashayaev and J. M. Toole *Advection and Stirring of the Deep Western Boundary Current* CASPO seminar, Scripps Institution of Oceanography, La Jolla, CA *(seminar)*
 
 * I. A. Le Bras, I. Yashayaev and J. M. Toole *Labrador Sea Water property changes along the Deep Western Boundary Current* USAMOC meeting, Santa Fe, NM *(oral presentation)*
