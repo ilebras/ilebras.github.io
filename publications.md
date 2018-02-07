@@ -10,11 +10,13 @@ image:
 
 ## Submitted/in prep
 
-* **Le Bras, I. A.**, S. Jayne, and J. M. Toole, The interaction of recirculation gyres and a deep boundary current *(submitted to Journal of Physical Oceanography)*
-
-* **Le Bras, I. A.**, and J. M. Toole, A vorticity budget for the western North Atlantic *(in prep)*
+* **Le Bras, I. A.**, M. Sonnewald and J. M. Toole, A vorticity budget for the western North Atlantic *(in prep)*
 
 ---
+
+## 2018
+
+* **Le Bras, I. A.**, S. Jayne, and J. M. Toole, The interaction of recirculation gyres and a deep boundary current *(in press at Journal of Physical Oceanography)*
 
 ## 2017
 
