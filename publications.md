@@ -16,11 +16,11 @@ image:
 
 ## 2018
 
-* **Le Bras, I. A.**, S. Jayne, and J. M. Toole, The interaction of recirculation gyres and a deep boundary current *(in press at Journal of Physical Oceanography)*
+* **Le Bras, I. A.**, S. Jayne, and J. M. Toole (2018) [The interaction of recirculation gyres and a deep boundary current](https://journals.ametsoc.org/doi/abs/10.1175/JPO-D-17-0206.1?journalCode=phoc) Journal of Physical Oceanography, 48, 573-590, doi: 10.1175/JPO-D-17-0206.1
 
 ## 2017
 
-* Toole, J.M., M. Andres, **I.A. Le Bras**, T. M. Joyce, and M. S. McCartney (2017) [Moored observations of the Deep Western Boundary Current in the NW Atlantic: 2004-2014](http://onlinelibrary.wiley.com/doi/10.1002/2017JC012984/full) J.Geophys.Res.Oceans, 122, doi/10.002/2017JC012984
+* Toole, J.M., M. Andres, **I.A. Le Bras**, T. M. Joyce, and M. S. McCartney (2017) [Moored observations of the Deep Western Boundary Current in the NW Atlantic: 2004-2014](http://onlinelibrary.wiley.com/doi/10.1002/2017JC012984/full) J.Geophys.Res.Oceans, 122, 7488-7505, doi/10.002/2017JC012984
 
 
 * **Le Bras, I. A.**, I. Yashayaev, and J. M. Toole (2017), [Tracking Labrador Sea Water property signals along the Deep Western Boundary Current](http://onlinelibrary.wiley.com/doi/10.1002/2017JC012921/full), J. Geophys. Res. Oceans, 122, 5348–5366, doi:10.1002/2017JC012921
