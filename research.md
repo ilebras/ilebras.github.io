@@ -33,7 +33,7 @@ My research is focused on the Atlantic Meridional Overturning Circulation (AMOC)
 
 # Gulf Stream Dynamics
 
-* Using a two-layer quasi-geostrophic process model, I investigated the interaction between the Gulf Stream and the DWBC. I found both that eddy growth rates in the Gulf Stream can be suppressed by adjacent topography and that eddy PV fluxes in the Gulf Stream's recirculation gyres can stir the DWBC.
+* Using a two-layer quasi-geostrophic process model, I investigated the interaction between the Gulf Stream and the DWBC. I found both that eddy growth rates in the Gulf Stream can be suppressed by adjacent topography and that eddy PV fluxes in the Gulf Stream's recirculation gyres can stir the DWBC [*(paper)*](https://journals.ametsoc.org/doi/abs/10.1175/JPO-D-17-0206.1?journalCode=phoc).
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/modschem.png" alt="">
 
