@@ -10,6 +10,9 @@ image:
 
 ## Submitted/in prep
 
+
+* **Le Bras, I. A.**, N.P. Holliday, J. Holte and F. Straneo, Seasonality of freshwater in the East Greenland Current system *(in prep)*
+
 * **Le Bras, I. A.**, M. Sonnewald and J. M. Toole, A vorticity budget for the western North Atlantic *(in prep)*
 
 ---
