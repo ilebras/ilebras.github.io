@@ -3,7 +3,7 @@ layout: page
 description: "Physical Oceanographer"
 tags: []
 image: 
-    feature: 
+    feature: HAI_0178.JPG
 ---
 
 **I am a sea-going physical oceanographer studying the large-scale circulation of the ocean.**
