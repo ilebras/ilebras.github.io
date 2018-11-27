@@ -15,6 +15,10 @@ My research is focused on the Atlantic Meridional Overturning Circulation (AMOC)
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/osnapschem.png" alt="">
 
+* From the first two years of data, I showed that the maximum freshwater transport in the East Greenland Current system occurs outside the summer, which implies that historical measurements are undersestimates. I also explored mechanisms for stirring freshwater off the shelf, which could affect convection downstream [*(paper)*](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JC014511).
+
+* I am now studying how convection interacts with the boundary current system in the Irminger Sea.
+
 ---
 
 # The Deep Western Boundary Current
