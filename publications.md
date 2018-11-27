@@ -11,13 +11,13 @@ image:
 ## Submitted/in prep
 
 
-* **Le Bras, I. A.**, N.P. Holliday, J. Holte and F. Straneo, Seasonality of freshwater in the East Greenland Current system *(in prep)*
-
-* **Le Bras, I. A.**, M. Sonnewald and J. M. Toole, A vorticity budget for the western North Atlantic *(in prep)*
+* **Le Bras, I. A.**, M. Sonnewald and J. M. Toole, A vorticity budget for the subtropical North Atlantic *(in prep)*
 
 ---
 
 ## 2018
+
+* **Le Bras, I. A.**, F. Straneo, J. Holte, and N.P. Holliday, [Seasonality of freshwater in the East Greenland Current system from 2014 to 2016](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JC014511) *(in press)* J.Geophys.Res.Oceans, doi: 10.1029/2018jc014511
 
 * **Le Bras, I. A.**, S. Jayne, and J. M. Toole (2018) [The interaction of recirculation gyres and a deep boundary current](https://journals.ametsoc.org/doi/abs/10.1175/JPO-D-17-0206.1?journalCode=phoc) Journal of Physical Oceanography, 48, 573-590, doi: 10.1175/JPO-D-17-0206.1
 
