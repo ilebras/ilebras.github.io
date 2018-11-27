@@ -9,7 +9,7 @@ My research is focused on the Atlantic Meridional Overturning Circulation (AMOC)
 
 ---
 
-# Freshwater in the East Greenland Current System
+# Overturning at high-latitudes
 
 * As a postdoc at Scripps, I am involved in [O-SNAP](http://www.o-snap.org/), an AMOC monitoring system in the subpolar North Atlantic started in 2014. In particular, I am working with data from an array of moorings just east of Greenland *(red circle below)*, where the upper and lower limbs of the AMOC meet.
 
