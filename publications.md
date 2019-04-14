@@ -11,13 +11,12 @@ image:
 ## Submitted/in prep
 
 * **Le Bras, I. A-A.**, M. Sonnewald and J. M. Toole, A vorticity budget for the subtropical North Atlantic *(in prep)*
+
 ---
 
 ## 2019
 
 * Lozier, M. S. and Li, F. Bacon, S. Bahr, F. Bower, A. S. Cunningham, S. A. de Jong, M. F. de Steur, L. deYoung, B. Fischer, J. Gary, S. F. Greenan, B. J. W. Holliday, N. P. Houk, A. Houpert, L. Inall, M. E. Johns, W. E. Johnson, H. L. Johnson, C. Karstensen, J. Koman, G. **Le Bras, I. A.** Lin, X. Mackay, N. Marshall, D. P. Mercier, H. Oltmanns, M. Pickart, R. S. Ramsey, A. L. Rayner, D. Straneo, F. Thierry, V. Torres, D. J. Williams, R. G. Wilson, C. Yang, J. Yashayaev, I. Zhao, J. (2019) [A sea change in our view of overturning in the subpolar North Atlantic](https://science.sciencemag.org/content/363/6426/516) Science, 363, 516 -521, doi: 10.1126/science.aau6592
-
----
 
 ## 2018
 
