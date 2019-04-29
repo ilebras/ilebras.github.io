@@ -27,7 +27,7 @@ My research is focused on the Atlantic Meridional Overturning Circulation (AMOC)
 
 * Using this and all available upstream data, I quantified DWBC travel times and stirring from the Labrador Sea to Line W, weighing in on an ongoing debate over how the deep ocean is filled with water from high latitude sources [*(paper)*](http://onlinelibrary.wiley.com/doi/10.1002/2017JC012921/full).
 
-* I was also involved in analysizing DWBC transports at Line W [*(paper)*](http://onlinelibrary.wiley.com/doi/10.1002/2017JC012984/full).
+* I was also involved in analyzing DWBC transports at Line W [*(paper)*](http://onlinelibrary.wiley.com/doi/10.1002/2017JC012984/full).
 
 *This image links to a video highlighting the variability in this rich dataset.*
 
