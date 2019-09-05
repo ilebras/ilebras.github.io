@@ -41,6 +41,6 @@ My research is focused on the Atlantic Meridional Overturning Circulation (AMOC)
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/modschem.png" alt="">
 
-* I am building a vorticity budget for the Gulf Stream, using observations and the [ECCO v4](http://www.ecco-group.org/) model. This work began in my thesis and is ongoing.
+* To gain a better understanding of the dynamics of the Gulf Stream, I analyzed the vorticity balance of the Gulf Stream in observations and the [ECCO v4](http://www.ecco-group.org/) model. In this work, we found favorable comparisons with observations and fast spinup times for the depth-integrated, geostrophic component of the Gulf Stream. [*(paper)*](https://journals.ametsoc.org/doi/abs/10.1175/JPO-D-19-0111.1).
 
 ---
