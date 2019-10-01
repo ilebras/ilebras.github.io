@@ -35,6 +35,8 @@ image:
 
 ## Grey literature
 
+* Sutherland, D., F. Straneo, T. Moon, **I.A. Le Bras**, E. Frajka-Williams, et al. 2019. [**Estimating the Freshwater Flux from the Greenland Ice Sheet Workshop Report**](doi:10.18739/A24M9198B), American Geophysical Union, 2018. Arctic Data Center. doi:10.18739/A24M9198B.
+
 * **Le Bras, I. A.** (2017), [**Detours on the oceanic highway**](http://www.whoi.edu/oceanus/viewArticle.do?id=189349), Oceanus Magazine
 
 ---
