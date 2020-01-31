@@ -8,6 +8,11 @@ image:
 
 {::options auto_ids="false" /}
 
+
+## 2020
+
+* **Le Bras, I. A-A.**, F. Straneo, J. Holte, M.F. de Jong, and N. P. Holliday [**Rapid export of waters formed by convection near the Irminger Sea's western boundary**](doi.org/10.1029/2019GL085989) Geophysical Research Letters, doi.org/10.1029/2019GL085989
+
 ## 2019
 
 * **Le Bras, I. A-A.**, M. Sonnewald and J. M. Toole, [**A barotropic vorticity budget for the subtropical North Atlantic based on observations**](https://journals.ametsoc.org/doi/abs/10.1175/JPO-D-19-0111.1) Journal of Physical Oceanography, doi:10.1175/JPO-D-19-0111.1
