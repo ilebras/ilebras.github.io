@@ -11,7 +11,7 @@ image:
 
 ## 2020
 
-* **Le Bras, I. A-A.**, F. Straneo, J. Holte, M.F. de Jong, and N. P. Holliday [**Rapid export of waters formed by convection near the Irminger Sea's western boundary**](doi.org/10.1029/2019GL085989) Geophysical Research Letters, doi.org/10.1029/2019GL085989
+* **Le Bras, I. A-A.**, F. Straneo, J. Holte, M.F. de Jong, and N. P. Holliday [**Rapid export of waters formed by convection near the Irminger Sea's western boundary**](http://doi.org/10.1029/2019GL085989) Geophysical Research Letters, doi.org/10.1029/2019GL085989
 
 ## 2019
 
