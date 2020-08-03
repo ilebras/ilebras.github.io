@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Atlantic Meridional Overturning Circulation | Isabela Le Bras - PO @ WHOI</title>
+    <link>ilebras.github.io/tag/atlantic-meridional-overturning-circulation/</link>
+      <atom:link href="ilebras.github.io/tag/atlantic-meridional-overturning-circulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Atlantic Meridional Overturning Circulation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Isabela Le Bras</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/ilebras.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Atlantic Meridional Overturning Circulation</title>
+      <link>ilebras.github.io/tag/atlantic-meridional-overturning-circulation/</link>
+    </image>
+    
+    <item>
+      <title>Transport variability of the Irminger Sea Deep Western Boundary Current from a mooring array</title>
+      <link>ilebras.github.io/publication/hopkins-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>ilebras.github.io/publication/hopkins-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moored observations of the Deep Western Boundary Current in the NWAtlantic: 2004-2014</title>
+      <link>ilebras.github.io/publication/toole-2017-a/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>ilebras.github.io/publication/toole-2017-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

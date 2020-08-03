@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Isabela Alexander-Astiz Le Bras | Isabela Le Bras - PO @ WHOI</title>
+    <link>ilebras.github.io/author/isabela-alexander-astiz-le-bras/</link>
+      <atom:link href="ilebras.github.io/author/isabela-alexander-astiz-le-bras/index.xml" rel="self" type="application/rss+xml" />
+    <description>Isabela Alexander-Astiz Le Bras</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Isabela Le Bras</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/ilebras.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Isabela Alexander-Astiz Le Bras</title>
+      <link>ilebras.github.io/author/isabela-alexander-astiz-le-bras/</link>
+    </image>
+    
+    <item>
+      <title>A barotropic vorticity budget for the subtropical north atlantic based on observations</title>
+      <link>ilebras.github.io/publication/bras-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>ilebras.github.io/publication/bras-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A barotropic vorticity budget for the subtropical north atlantic based on observations</title>
+      <link>ilebras.github.io/publication/le-bras-2019-x/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>ilebras.github.io/publication/le-bras-2019-x/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

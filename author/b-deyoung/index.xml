@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B DeYoung | Isabela Le Bras - PO @ WHOI</title>
+    <link>ilebras.github.io/author/b-deyoung/</link>
+      <atom:link href="ilebras.github.io/author/b-deyoung/index.xml" rel="self" type="application/rss+xml" />
+    <description>B DeYoung</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Isabela Le Bras</copyright><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/ilebras.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>B DeYoung</title>
+      <link>ilebras.github.io/author/b-deyoung/</link>
+    </image>
+    
+    <item>
+      <title>A sea change in our view of overturning in the subpolar North Atlantic.</title>
+      <link>ilebras.github.io/publication/lozier-2019/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>ilebras.github.io/publication/lozier-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
