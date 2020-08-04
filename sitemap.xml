@@ -3,12 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>ilebras.github.io/publication-type/2/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <loc>ilebras.github.io/authors/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>ilebras.github.io/authors/</loc>
+    <loc>ilebras.github.io/author/isabela-le-bras/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>ilebras.github.io/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>ilebras.github.io/project/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>ilebras.github.io/project/2020-snap-dragon/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>ilebras.github.io/project/2020-o2-irminger/</loc>
+    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>ilebras.github.io/project/2020-beaufort-gyre/</loc>
+    <lastmod>2020-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>ilebras.github.io/project/2020-nasa-amoc/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>ilebras.github.io/publication-type/2/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,7 +58,7 @@
   </url>
   
   <url>
-    <loc>ilebras.github.io/author/f.-straneo/</loc>
+    <loc>ilebras.github.io/author/fiamma-straneo/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,27 +68,22 @@
   </url>
   
   <url>
-    <loc>ilebras.github.io/author/i.-a.a.-le-bras/</loc>
+    <loc>ilebras.github.io/author/isabela-alexander-astiz-le-bras/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>ilebras.github.io/</loc>
+    <loc>ilebras.github.io/author/james-holte/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>ilebras.github.io/author/j.-holte/</loc>
+    <loc>ilebras.github.io/author/m.-femke-de-jong/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>ilebras.github.io/author/m.-f.-de-jong/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>ilebras.github.io/author/n.-p.-holliday/</loc>
+    <loc>ilebras.github.io/author/n.-penny-holliday/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -258,11 +288,6 @@
   </url>
   
   <url>
-    <loc>ilebras.github.io/author/n.-penny-holliday/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>ilebras.github.io/tag/observing-system-simulation-experiment-osse/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url>
@@ -344,6 +369,11 @@
   
   <url>
     <loc>ilebras.github.io/tag/deep-western-boundary-current/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>ilebras.github.io/author/f.-straneo/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -613,11 +643,6 @@
   </url>
   
   <url>
-    <loc>ilebras.github.io/author/isabela-alexander-astiz-le-bras/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>ilebras.github.io/author/isabela-astiz-le-bras/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -643,17 +668,7 @@
   </url>
   
   <url>
-    <loc>ilebras.github.io/author/fiamma-straneo/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>ilebras.github.io/tag/freshwater/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>ilebras.github.io/author/james-holte/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -794,10 +809,6 @@
   
   <url>
     <loc>ilebras.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>ilebras.github.io/author/isabela-le-bras/</loc>
   </url>
   
   <url>
