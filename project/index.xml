@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Isabela Le Bras @ WHOI</title>
-    <link>ilebras.github.io/project/</link>
-      <atom:link href="ilebras.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ilebras.github.io/project/</link>
+      <atom:link href="https://ilebras.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/ilebras.github.io/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ilebras.github.io/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>ilebras.github.io/project/</link>
+      <link>https://ilebras.github.io/project/</link>
     </image>
     
     <item>
       <title>SNAP-DRAGON</title>
-      <link>ilebras.github.io/project/2020-snap-dragon/</link>
+      <link>https://ilebras.github.io/project/2020-snap-dragon/</link>
       <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>ilebras.github.io/project/2020-snap-dragon/</guid>
+      <guid>https://ilebras.github.io/project/2020-snap-dragon/</guid>
       <description>&lt;p&gt;The subpolar North Atlantic Ocean occupies a key role in regional and global climate, yet is poorly
 represented in climate models, which limits our confidence in predictions. Recent Overturning in the Subpolar North Atlantic Program 
 &lt;a href=&#34;http://www.o-snap.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(OSNAP)&lt;/a&gt; and other
@@ -32,9 +32,9 @@ predictability.&lt;/p&gt;
     
     <item>
       <title>Oxygen cycling in the Irminger Sea</title>
-      <link>ilebras.github.io/project/2020-o2-irminger/</link>
+      <link>https://ilebras.github.io/project/2020-o2-irminger/</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>ilebras.github.io/project/2020-o2-irminger/</guid>
+      <guid>https://ilebras.github.io/project/2020-o2-irminger/</guid>
       <description>&lt;p&gt;The high latitude North Atlantic has an outsized impact on global climate as it is one of the few regions where deep and intermediate water masses are formed. These water formation sites are the windows through which gases such as carbon dioxide and oxygen are transferred from the atmosphere to the ocean interior. While traditionally the Labrador Sea has been considered the primary location for convective mixing and gas uptake in the subpolar North Atlantic, in recent years deep convection has also occurred in the Irminger Sea, and observations have shown that processes in the Irminger Sea play a significant role in meridional overturning circulation variability. The variability in carbon dioxide and oxygen uptake in the region is likely also significant, yet has not been characterized to the extent that heat and freshwater fluxes have. The goal of work proposed here is to use observations from the Ocean Observatories Initiative Irminger Sea Global Node together with shipboard and profiling float observations to obtain a basin-wide view of oxygen cycling on seasonal to interannual time scales. We focus on oxygen as it is by far the most sampled biogeochemical variable in the region.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;This project is a new interdisciplinary collaboration between Isabela Le Bras, Roo Nicholson (WHOI), Hilary Palevsky (BC) and Leah McRaven (WHOI). Funding provided by WHOI Internal Burke OOI Innovation Fund.&lt;/strong&gt;&lt;/p&gt;
 </description>
@@ -42,17 +42,17 @@ predictability.&lt;/p&gt;
     
     <item>
       <title>Beaufort Gyre Observing System</title>
-      <link>ilebras.github.io/project/2020-beaufort-gyre/</link>
+      <link>https://ilebras.github.io/project/2020-beaufort-gyre/</link>
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>ilebras.github.io/project/2020-beaufort-gyre/</guid>
+      <guid>https://ilebras.github.io/project/2020-beaufort-gyre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AMOC connectivity</title>
-      <link>ilebras.github.io/project/2020-nasa-amoc/</link>
+      <link>https://ilebras.github.io/project/2020-nasa-amoc/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>ilebras.github.io/project/2020-nasa-amoc/</guid>
+      <guid>https://ilebras.github.io/project/2020-nasa-amoc/</guid>
       <description>&lt;p&gt;The Atlantic Meridional Overturning Circulation (AMOC) stabilizes the earth’s climate by redistributing heat, salt, oxygen, and carbon globally. The AMOC, in turn, is thought to be sensitive to changes in climate [IPCC 2014]. However, the link between the AMOC and climate hinges on the assumption of meridional coherence, i.e. that the overturning circulation transports climate anomalies thousands of kilometers across the Atlantic basin. Though meridional coherence has been reported in ocean models, observations of the AMOC are too limited to test the role of the overturning circulation in the climate system on interannual time scales.&lt;/p&gt;
 &lt;p&gt;To investigate AMOC connectivity from observations, we will compile a novel dataset at 37N. We plan to construct a decade-long (2004-2014), cross-basin dataset by combining complementary data types: satellite altimetry, gravity and wind stress data, in situ float observations, and the Line W western boundary moored array [Willis and Fu 2008, Toole et al. 2017]. The ECCO v4 and LLC270 state estimates will be used to complement our analysis and test our methods.&lt;/p&gt;
 &lt;p&gt;Our objectives are to use the 37N dataset to:&lt;/p&gt;
