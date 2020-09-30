@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marilena Oltmanns | Isabela Le Bras @ WHOI</title>
+    <link>https://ilebras.github.io/author/marilena-oltmanns/</link>
+      <atom:link href="https://ilebras.github.io/author/marilena-oltmanns/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marilena Oltmanns</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ilebras.github.io/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_512x512_fill_lanczos_center_2.png</url>
+      <title>Marilena Oltmanns</title>
+      <link>https://ilebras.github.io/author/marilena-oltmanns/</link>
+    </image>
+    
+    <item>
+      <title>Mean Conditions and Seasonality of the West Greenland Boundary Current System near Cape Farewell</title>
+      <link>https://ilebras.github.io/publication/pacini-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://ilebras.github.io/publication/pacini-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
