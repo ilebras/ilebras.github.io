@@ -5,12 +5,28 @@
     <link>https://ilebras.github.io/</link>
       <atom:link href="https://ilebras.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Isabela Le Bras @ WHOI</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ilebras.github.io/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_512x512_fill_lanczos_center_2.png</url>
       <title>Isabela Le Bras @ WHOI</title>
       <link>https://ilebras.github.io/</link>
     </image>
+    
+    <item>
+      <title>How much Arctic fresh water participates in the subpolar overturning circulation?</title>
+      <link>https://ilebras.github.io/publication/le-bras-2021-a/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ilebras.github.io/publication/le-bras-2021-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How much Arctic fresh water participates in the subpolar overturning circulation?</title>
+      <link>https://ilebras.github.io/publication/le-bras-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ilebras.github.io/publication/le-bras-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mean Conditions and Seasonality of the West Greenland Boundary Current System near Cape Farewell</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Rhein | Isabela Le Bras @ WHOI</title>
+    <link>https://ilebras.github.io/author/m.-rhein/</link>
+      <atom:link href="https://ilebras.github.io/author/m.-rhein/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Rhein</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ilebras.github.io/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_512x512_fill_lanczos_center_2.png</url>
+      <title>M. Rhein</title>
+      <link>https://ilebras.github.io/author/m.-rhein/</link>
+    </image>
+    
+    <item>
+      <title>Atlantic Meridional Overturning Circulation: Observed Transport and Variability</title>
+      <link>https://ilebras.github.io/publication/frajka-williams-2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://ilebras.github.io/publication/frajka-williams-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
