@@ -5,7 +5,7 @@
     <link>https://ilebras.github.io/author/isabela-le-bras/</link>
       <atom:link href="https://ilebras.github.io/author/isabela-le-bras/index.xml" rel="self" type="application/rss+xml" />
     <description>Isabela Le Bras</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ilebras.github.io/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_512x512_fill_lanczos_center_2.png</url>
       <title>Isabela Le Bras</title>
@@ -13,19 +13,65 @@
     </image>
     
     <item>
-      <title>How much Arctic fresh water participates in the subpolar overturning circulation?</title>
-      <link>https://ilebras.github.io/publication/le-bras-2021-a/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/publication/le-bras-2021-a/</guid>
+      <title>SNAP-DRAGON</title>
+      <link>https://ilebras.github.io/project/2020-snap-dragon/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://ilebras.github.io/project/2020-snap-dragon/</guid>
+      <description>&lt;p&gt;The subpolar North Atlantic Ocean occupies a key role in regional and global climate, yet is poorly
+represented in climate models, which limits our confidence in predictions. Recent Overturning in the Subpolar North Atlantic Program 
+&lt;a href=&#34;http://www.o-snap.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(OSNAP)&lt;/a&gt; and other
+data reveal significant subpolar ocean variability, but raise questions about the processes that give
+rise to this variability and that link it to atmospheric changes. We bring the observations together
+with numerical ocean and climate models to make a step change in our understanding of subpolar
+North Atlantic variability by exposing the time-dependent causal relationships governing
+subpolar ocean variability, their robustness across models and their implications for
+predictability.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This project is a UK-US collaboration led by Helen Johnson (Oxford) together with Penny Holliday (NOC Southampton) and many co-PIs and collaborators. UK funding is provided by the National Environmental Research Council (NERC) and US funding by the National Science Foundation (NSF).&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Oxygen cycling in the Irminger Sea</title>
+      <link>https://ilebras.github.io/project/2020-o2-irminger/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://ilebras.github.io/project/2020-o2-irminger/</guid>
+      <description>&lt;p&gt;The high latitude North Atlantic has an outsized impact on global climate as it is one of the few regions where deep and intermediate water masses are formed. These water formation sites are the windows through which gases such as carbon dioxide and oxygen are transferred from the atmosphere to the ocean interior. While traditionally the Labrador Sea has been considered the primary location for convective mixing and gas uptake in the subpolar North Atlantic, in recent years deep convection has also occurred in the Irminger Sea, and observations have shown that processes in the Irminger Sea play a significant role in meridional overturning circulation variability. The variability in carbon dioxide and oxygen uptake in the region is likely also significant, yet has not been characterized to the extent that heat and freshwater fluxes have. The goal of work proposed here is to use observations from the Ocean Observatories Initiative Irminger Sea Global Node together with shipboard and profiling float observations to obtain a basin-wide view of oxygen cycling on seasonal to interannual time scales. We focus on oxygen as it is by far the most sampled biogeochemical variable in the region.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This project is a new interdisciplinary collaboration between Isabela Le Bras, Roo Nicholson (WHOI), Hilary Palevsky (BC) and Leah McRaven (WHOI). Funding provided by WHOI Internal Burke OOI Innovation Fund.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beaufort Gyre Observing System</title>
+      <link>https://ilebras.github.io/project/2020-beaufort-gyre/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://ilebras.github.io/project/2020-beaufort-gyre/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>How much Arctic fresh water participates in the subpolar overturning circulation?</title>
-      <link>https://ilebras.github.io/publication/le-bras-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/publication/le-bras-2021/</guid>
-      <description></description>
+      <title>AMOC connectivity</title>
+      <link>https://ilebras.github.io/project/2020-nasa-amoc/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://ilebras.github.io/project/2020-nasa-amoc/</guid>
+      <description>&lt;p&gt;The Atlantic Meridional Overturning Circulation (AMOC) stabilizes the earth’s climate by redistributing heat, salt, oxygen, and carbon globally. The AMOC, in turn, is thought to be sensitive to changes in climate [IPCC 2014]. However, the link between the AMOC and climate hinges on the assumption of meridional coherence, i.e. that the overturning circulation transports climate anomalies thousands of kilometers across the Atlantic basin. Though meridional coherence has been reported in ocean models, observations of the AMOC are too limited to test the role of the overturning circulation in the climate system on interannual time scales.&lt;/p&gt;
+&lt;p&gt;To investigate AMOC connectivity from observations, we will compile a novel dataset at 37N. We plan to construct a decade-long (2004-2014), cross-basin dataset by combining complementary data types: satellite altimetry, gravity and wind stress data, in situ float observations, and the Line W western boundary moored array [Willis and Fu 2008, Toole et al. 2017]. The ECCO v4 and LLC270 state estimates will be used to complement our analysis and test our methods.&lt;/p&gt;
+&lt;p&gt;Our objectives are to use the 37N dataset to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;clarify the effect of subpolar density anomalies on the subtropical AMOC,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;diagnose the gyre and overturning circulation contributions to subtropical heat divergence, and&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;investigate basin-wide AMOC coherence on interannual time scales during the satellite-era.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Ultimately, this work will clarify the role of the AMOC in the climate system. The 37N dataset will be particularly well suited to address these questions because the western boundary currents and deep ocean are directly measured, improving upon a satellite- and float-based AMOC dataset at 41N [Willis 2010].  The Willis [2010] 41N AMOC estimate does not include any observations below 2000m, has limited spatial and temporal resolution, and is situated just north of the subtropical gyre, which limits the scope of scientific questions it can be used to address.&lt;/p&gt;
+&lt;p&gt;The 37N dataset would provide the oceanographic community with a full-depth AMOC dataset that complements existing cross-basin arrays: OSNAP (Overturning in the Subpolar North Atlantic Program) at 57N, and  RAPID (Rapid Climate Change) at  26.5N. This project will expand our understanding of the basin-wide character of the overturning circulation and its associated heat transport, as well as ground truth ocean models. Our methods for merging satellite and in situ observations may be applicable to other ocean regions, which would substantially increase the scope of the global overturning circulation observing system.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Funded by the National Aeronautics and Space Administration (NASA) Research Opportunities in Space and Earth Sciences (ROSES) Physical Oceanography program.
+Co-PI: Joshua Willis (JPL). Additional collaborators: Felix Landerer (JPL), Ian Fenty (JPL), and John Toole (WHOI).&lt;/strong&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
