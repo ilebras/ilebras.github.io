@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>J. Holte | Isabela Le Bras - PO @ WHOI</title>
-    <link>ilebras.github.io/author/j.-holte/</link>
-      <atom:link href="ilebras.github.io/author/j.-holte/index.xml" rel="self" type="application/rss+xml" />
+    <title>J. Holte | Isabela Le Bras @ WHOI</title>
+    <link>https://ilebras.github.io/author/j.-holte/</link>
+      <atom:link href="https://ilebras.github.io/author/j.-holte/index.xml" rel="self" type="application/rss+xml" />
     <description>J. Holte</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Isabela Le Bras</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/ilebras.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ilebras.github.io/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_512x512_fill_lanczos_center_2.png</url>
       <title>J. Holte</title>
-      <link>ilebras.github.io/author/j.-holte/</link>
+      <link>https://ilebras.github.io/author/j.-holte/</link>
     </image>
     
     <item>
-      <title>Rapid Export of Waters Formed by Convection Near the Irminger Sea&#39;s Western Boundary</title>
-      <link>ilebras.github.io/publication/le-bras-2020/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>ilebras.github.io/publication/le-bras-2020/</guid>
+      <title>Subpolar North Atlantic western boundary density anomalies and the Meridional Overturning Circulation</title>
+      <link>https://ilebras.github.io/publication/li-2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ilebras.github.io/publication/li-2021/</guid>
       <description></description>
     </item>
     
