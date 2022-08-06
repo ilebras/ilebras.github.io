@@ -77,6 +77,8 @@
     
 
     
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
 
     
 
@@ -222,6 +224,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C7JRSJBBNS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-C7JRSJBBNS', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -235,8 +275,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_32x32_fill_lanczos_center_3.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_192x192_fill_lanczos_center_3.png">
 
   <link rel="canonical" href="https://ilebras.github.io/">
 
@@ -256,8 +296,8 @@
   <meta property="og:site_name" content="Isabela Le Bras @ WHOI">
   <meta property="og:url" content="https://ilebras.github.io/">
   <meta property="og:title" content="Isabela Le Bras @ WHOI">
-  <meta property="og:description" content="Assistant Scientist&lt;br /&gt;Physical Oceanography Department"><meta property="og:image" content="https://ilebras.github.io/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="https://ilebras.github.io/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Assistant Scientist&lt;br /&gt;Physical Oceanography Department"><meta property="og:image" content="https://ilebras.github.io/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_512x512_fill_lanczos_center_3.png">
+  <meta property="twitter:image" content="https://ilebras.github.io/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2021-07-01T00:00:00&#43;00:00">
   
@@ -978,7 +1018,7 @@
       
       
       <a href="/project/2020-snap-dragon/" >
-        <img src="/project/2020-snap-dragon/featured_hub323d11045d65177dd43cb1c9b309288_164472_540x0_resize_lanczos_2.png" alt="">
+        <img src="/project/2020-snap-dragon/featured_hub323d11045d65177dd43cb1c9b309288_164472_540x0_resize_lanczos_3.png" alt="">
       </a>
       
     </div>
@@ -1067,7 +1107,7 @@
       
       
       <a href="/project/2020-o2-irminger/" >
-        <img src="/project/2020-o2-irminger/featured_hub0c14fb47fd7baaf1788dcfb4a17c67f_699511_540x0_resize_lanczos_2.png" alt="">
+        <img src="/project/2020-o2-irminger/featured_hub0c14fb47fd7baaf1788dcfb4a17c67f_699511_540x0_resize_lanczos_3.png" alt="">
       </a>
       
     </div>
@@ -1157,7 +1197,7 @@
       
       
       <a href="http://www.whoi.edu/beaufortgyre" target="_blank" rel="noopener">
-        <img src="/project/2020-beaufort-gyre/featured_hu2ce94d73d775cf6aee5a09c7f5082d4f_496186_540x0_resize_lanczos_2.png" alt="">
+        <img src="/project/2020-beaufort-gyre/featured_hu2ce94d73d775cf6aee5a09c7f5082d4f_496186_540x0_resize_lanczos_3.png" alt="">
       </a>
       
     </div>
@@ -1246,7 +1286,7 @@
       
       
       <a href="/project/2020-nasa-amoc/" >
-        <img src="/project/2020-nasa-amoc/featured_huad768afa93326de4978cf7c623a4cdd1_297710_540x0_resize_lanczos_2.png" alt="">
+        <img src="/project/2020-nasa-amoc/featured_huad768afa93326de4978cf7c623a4cdd1_297710_540x0_resize_lanczos_3.png" alt="">
       </a>
       
     </div>
@@ -1978,7 +2018,7 @@
 
     
     <div class="d-none">
-      <input id="map-provider" value="1">
+      <input id="map-provider" value="2">
       <input id="map-lat" value="41.535">
       <input id="map-lng" value="-70.648">
       <input id="map-dir" value="349A Clark Lab, 266 Woods Hole Rd, MS#21, Woods Hole, MA 02543">
@@ -2021,10 +2061,7 @@
 
     
     
-      <script async defer src="https://maps.googleapis.com/maps/api/js?key="></script>
-      
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/gmaps.js/0.4.25/gmaps.min.js" integrity="sha256-7vjlAeb8OaTrCXZkCNun9djzuB2owUsaO72kXaFDBJs=" crossorigin="anonymous"></script>
-      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
     
 
     
@@ -2115,7 +2152,7 @@
     
     
     
-    <script src="/js/academic.min.66c553246b0f279a03be6e5597f72b52.js"></script>
+    <script src="/js/academic.min.9393c87ec980e85bccf7cf21c9a8162e.js"></script>
 
     
 
@@ -2131,7 +2168,7 @@
   
 
   <p class="powered-by">
-    © 2021
+    © 2022
   </p>
 
   

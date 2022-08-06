@@ -77,6 +77,8 @@
     
 
     
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
 
     
 
@@ -222,6 +224,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C7JRSJBBNS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-C7JRSJBBNS', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,8 +271,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_32x32_fill_lanczos_center_3.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_192x192_fill_lanczos_center_3.png">
 
   <link rel="canonical" href="https://ilebras.github.io/publication/pacini-2021/">
 
@@ -252,8 +292,8 @@
   <meta property="og:site_name" content="Isabela Le Bras @ WHOI">
   <meta property="og:url" content="https://ilebras.github.io/publication/pacini-2021/">
   <meta property="og:title" content="Cyclonic Eddies in the West Greenland Boundary Current System | Isabela Le Bras @ WHOI">
-  <meta property="og:description" content="The boundary current system in the Labrador Sea plays an integral role in modulating convection in the interior basin. Four years of mooring data from the eastern Labrador Sea reveal persistent mesoscale variability in the West Greenland boundary current. Between 2014 and 2018, 197 middepth intensified cyclones were identified that passed the array near the 2000-m isobath. In this study, we quantify these features and show that they are the downstream manifestation of Denmark Strait Overflow Water (DSOW) cyclones. A composite cyclone is constructed revealing an average radius of 9 km, maximum azimuthal speed of 24 cm s-1, and a core propagation velocity of 27 cm s-1.Thecore propagation velocity is significantly smaller than upstream near Denmark Strait, allowing them to trap more water. The cyclones transport a 200-m-thick lens of dense water at the bottom of the water column and increase the transport of DSOW in the West Greenland boundary current by 17% relative to the background flow. Only a portion of the features generated at Denmark Strait make it to the Labrador Sea, implying that the remainder are shed into the interior Irminger Sea, are retroflected at Cape Farewell, or dissipate. A synoptic shipboard survey east of Cape Farewell, conducted in summer 2020, captured two of these features that shed further light on their structure and timing. This is the first time DSOW cyclones have been observed in the Labrador Sea—a discovery that could have important implications for interior stratification."><meta property="og:image" content="https://ilebras.github.io/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="https://ilebras.github.io/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="The boundary current system in the Labrador Sea plays an integral role in modulating convection in the interior basin. Four years of mooring data from the eastern Labrador Sea reveal persistent mesoscale variability in the West Greenland boundary current. Between 2014 and 2018, 197 middepth intensified cyclones were identified that passed the array near the 2000-m isobath. In this study, we quantify these features and show that they are the downstream manifestation of Denmark Strait Overflow Water (DSOW) cyclones. A composite cyclone is constructed revealing an average radius of 9 km, maximum azimuthal speed of 24 cm s-1, and a core propagation velocity of 27 cm s-1.Thecore propagation velocity is significantly smaller than upstream near Denmark Strait, allowing them to trap more water. The cyclones transport a 200-m-thick lens of dense water at the bottom of the water column and increase the transport of DSOW in the West Greenland boundary current by 17% relative to the background flow. Only a portion of the features generated at Denmark Strait make it to the Labrador Sea, implying that the remainder are shed into the interior Irminger Sea, are retroflected at Cape Farewell, or dissipate. A synoptic shipboard survey east of Cape Farewell, conducted in summer 2020, captured two of these features that shed further light on their structure and timing. This is the first time DSOW cyclones have been observed in the Labrador Sea—a discovery that could have important implications for interior stratification."><meta property="og:image" content="https://ilebras.github.io/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_512x512_fill_lanczos_center_3.png">
+  <meta property="twitter:image" content="https://ilebras.github.io/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2021-07-13T15:36:35&#43;00:00">
@@ -297,7 +337,7 @@
     "name": "Isabela Le Bras @ WHOI",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://ilebras.github.io/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_192x192_fill_lanczos_center_2.png"
+      "url": "https://ilebras.github.io/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_192x192_fill_lanczos_center_3.png"
     }
   },
   "description": "The boundary current system in the Labrador Sea plays an integral role in modulating convection in the interior basin. Four years of mooring data from the eastern Labrador Sea reveal persistent mesoscale variability in the West Greenland boundary current. Between 2014 and 2018, 197 middepth intensified cyclones were identified that passed the array near the 2000-m isobath. In this study, we quantify these features and show that they are the downstream manifestation of Denmark Strait Overflow Water (DSOW) cyclones. A composite cyclone is constructed revealing an average radius of 9 km, maximum azimuthal speed of 24 cm s-1, and a core propagation velocity of 27 cm s-1.Thecore propagation velocity is significantly smaller than upstream near Denmark Strait, allowing them to trap more water. The cyclones transport a 200-m-thick lens of dense water at the bottom of the water column and increase the transport of DSOW in the West Greenland boundary current by 17% relative to the background flow. Only a portion of the features generated at Denmark Strait make it to the Labrador Sea, implying that the remainder are shed into the interior Irminger Sea, are retroflected at Cape Farewell, or dissipate. A synoptic shipboard survey east of Cape Farewell, conducted in summer 2020, captured two of these features that shed further light on their structure and timing. This is the first time DSOW cyclones have been observed in the Labrador Sea—a discovery that could have important implications for interior stratification."
@@ -906,10 +946,7 @@
 
     
     
-      <script async defer src="https://maps.googleapis.com/maps/api/js?key="></script>
-      
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/gmaps.js/0.4.25/gmaps.min.js" integrity="sha256-7vjlAeb8OaTrCXZkCNun9djzuB2owUsaO72kXaFDBJs=" crossorigin="anonymous"></script>
-      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
     
 
     
@@ -988,7 +1025,7 @@
     
     
     
-    <script src="/js/academic.min.66c553246b0f279a03be6e5597f72b52.js"></script>
+    <script src="/js/academic.min.9393c87ec980e85bccf7cf21c9a8162e.js"></script>
 
     
 
@@ -1004,7 +1041,7 @@
   
 
   <p class="powered-by">
-    © 2021
+    © 2022
   </p>
 
   

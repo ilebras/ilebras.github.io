@@ -77,6 +77,8 @@
     
 
     
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
 
     
 
@@ -222,6 +224,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C7JRSJBBNS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-C7JRSJBBNS', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -233,8 +273,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_32x32_fill_lanczos_center_3.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_192x192_fill_lanczos_center_3.png">
 
   <link rel="canonical" href="https://ilebras.github.io/author/isabela-le-bras/">
 
@@ -254,10 +294,10 @@
   <meta property="og:site_name" content="Isabela Le Bras @ WHOI">
   <meta property="og:url" content="https://ilebras.github.io/author/isabela-le-bras/">
   <meta property="og:title" content="Isabela Le Bras | Isabela Le Bras @ WHOI">
-  <meta property="og:description" content="Assistant Scientist&lt;br /&gt;Physical Oceanography Department"><meta property="og:image" content="https://ilebras.github.io/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="https://ilebras.github.io/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Assistant Scientist&lt;br /&gt;Physical Oceanography Department"><meta property="og:image" content="https://ilebras.github.io/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_512x512_fill_lanczos_center_3.png">
+  <meta property="twitter:image" content="https://ilebras.github.io/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2021-01-01T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2020-08-04T00:00:00&#43;00:00">
   
 
   
@@ -533,14 +573,175 @@
 
 
 
-<div class="universal-wrapper pt-3">
-  <h1>Isabela Le Bras</h1>
-</div>
-
 
 <section id="profile-page" class="pt-5">
   <div class="container">
     
+    
+      
+      
+      
+      
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<div class="row">
+  <div class="col-12 col-lg-4">
+    <div id="profile">
+
+      
+      
+      <img class="avatar avatar-circle" src="/author/isabela-le-bras/avatar1_hu173073e7ff0c1866422c3a7891bc64cf_12578808_270x270_fill_q90_lanczos_center.JPG" alt="Isabela Le Bras">
+      
+
+      <div class="portrait-title">
+        <h2>Isabela Le Bras</h2>
+        <h3>Assistant Scientist<br />Physical Oceanography Department</h3>
+
+        
+        <h3>
+          <a href="https://www.whoi.edu/what-we-do/understand/departments-centers-labs/po/" target="_blank" rel="noopener">
+          <span>Woods Hole Oceanographic Institution</span>
+          </a>
+        </h3>
+        
+      </div>
+
+      <ul class="network-icon" aria-hidden="true">
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="/#contact" >
+            <i class="fas fa-envelope big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://twitter.com/oceanslebrasi" target="_blank" rel="noopener">
+            <i class="fab fa-twitter big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://scholar.google.com/citations?user=nV4nPOcAAAAJ" target="_blank" rel="noopener">
+            <i class="ai ai-google-scholar big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://github.com/ilebras/LeBras_CV/blob/master/CV_ilebras.pdf" target="_blank" rel="noopener">
+            <i class="ai ai-cv big-icon"></i>
+          </a>
+        </li>
+        
+      </ul>
+
+    </div>
+  </div>
+  <div class="col-12 col-lg-8">
+
+    
+    
+
+    <p>Isabela Le Bras is a sea-going physical oceanographer at the Woods Hole Oceanographic Institution (WHOI) studying the ocean&rsquo;s large-scale circulation. Her research is motivated by a desire to understand the ocean&rsquo;s role in the climate system. Specific areas of interest include:</p>
+<ul>
+<li>
+<p>The Atlantic Meridional Overturning Circulation (AMOC), an intricate system of currents that stabilizes the earth’s climate by redistributing heat, salt, oxygen, and carbon on a global scale.</p>
+</li>
+<li>
+<p>High-latitude ocean dynamics and the linkages between the Arctic and Atlantic oceans.</p>
+</li>
+</ul>
+<p>
+<a href="https://github.com/ilebras/LeBras_CV/blob/master/CV_ilebras.pdf" target="_blank" rel="noopener">Download CV</a></p>
+<p>
+<a href="/join">Learn more about joining Isabela&rsquo;s research group</a></p>
+
+
+    <div class="row">
+
+      
+
+      
+      <div class="col-md-7">
+        <h3>Education</h3>
+        <ul class="ul-edu fa-ul">
+          
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">PhD in Physical Oceanography, 2017</p>
+              <p class="institution">MIT-WHOI Joint Program</p>
+            </div>
+          </li>
+          
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">BA in Physics, 2010</p>
+              <p class="institution">University of California Berkeley</p>
+            </div>
+          </li>
+          
+        </ul>
+      </div>
+      
+
+    </div>
+  </div>
+</div>
+
     
 
     
@@ -551,7 +752,19 @@
       <ul>
         
         <li>
-          <a href="/publication/le-bras-2021/">How much Arctic fresh water participates in the subpolar overturning circulation?</a>
+          <a href="/project/2020-snap-dragon/">SNAP-DRAGON</a>
+        </li>
+        
+        <li>
+          <a href="/project/2020-o2-irminger/">Oxygen cycling in the Irminger Sea</a>
+        </li>
+        
+        <li>
+          <a href="/project/2020-beaufort-gyre/">Beaufort Gyre Observing System</a>
+        </li>
+        
+        <li>
+          <a href="/project/2020-nasa-amoc/">AMOC connectivity</a>
         </li>
         
       </ul>
@@ -585,10 +798,7 @@
 
     
     
-      <script async defer src="https://maps.googleapis.com/maps/api/js?key="></script>
-      
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/gmaps.js/0.4.25/gmaps.min.js" integrity="sha256-7vjlAeb8OaTrCXZkCNun9djzuB2owUsaO72kXaFDBJs=" crossorigin="anonymous"></script>
-      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
     
 
     
@@ -667,7 +877,7 @@
     
     
     
-    <script src="/js/academic.min.66c553246b0f279a03be6e5597f72b52.js"></script>
+    <script src="/js/academic.min.9393c87ec980e85bccf7cf21c9a8162e.js"></script>
 
     
 
@@ -683,7 +893,7 @@
   
 
   <p class="powered-by">
-    © 2021
+    © 2022
   </p>
 
   
