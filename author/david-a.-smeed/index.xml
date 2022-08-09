@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>David A. Smeed | Isabela Le Bras @ WHOI</title>
+    <title>David A. Smeed | Le Bras Lab @ WHOI</title>
     <link>https://ilebras.github.io/author/david-a.-smeed/</link>
       <atom:link href="https://ilebras.github.io/author/david-a.-smeed/index.xml" rel="self" type="application/rss+xml" />
     <description>David A. Smeed</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ilebras.github.io/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ilebras.github.io/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_512x512_fill_lanczos_center_3.png</url>
       <title>David A. Smeed</title>
       <link>https://ilebras.github.io/author/david-a.-smeed/</link>
     </image>
     
     <item>
-      <title>Atlantic Meridional Overturning Circulation: Observed Transport and Variability</title>
-      <link>https://ilebras.github.io/publication/frajka-williams-2019/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/publication/frajka-williams-2019/</guid>
+      <title>Climate-Relevant Ocean Transport Measurements in the Atlantic and Arctic Oceans</title>
+      <link>https://ilebras.github.io/publication/berx-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ilebras.github.io/publication/berx-2021/</guid>
       <description></description>
     </item>
     

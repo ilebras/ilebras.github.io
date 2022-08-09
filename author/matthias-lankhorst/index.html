@@ -23,14 +23,14 @@
   
   
 
-  <meta name="author" content="Isabela Le Bras">
+  <meta name="author" content="Observing ocean circulation">
 
   
   
   
     
   
-  <meta name="description" content="Assistant Scientist&lt;br /&gt;Physical Oceanography Department">
+  <meta name="description" content="Physical Oceanography Department">
 
   
   <link rel="alternate" hreflang="en-us" href="https://ilebras.github.io/author/matthias-lankhorst/">
@@ -76,6 +76,8 @@
       
     
 
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
     
 
     
@@ -222,6 +224,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C7JRSJBBNS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-C7JRSJBBNS', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -229,12 +269,12 @@
   
 
   
-  <link rel="alternate" href="/author/matthias-lankhorst/index.xml" type="application/rss+xml" title="Isabela Le Bras @ WHOI">
+  <link rel="alternate" href="/author/matthias-lankhorst/index.xml" type="application/rss+xml" title="Le Bras Lab @ WHOI">
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_32x32_fill_lanczos_center_3.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_192x192_fill_lanczos_center_3.png">
 
   <link rel="canonical" href="https://ilebras.github.io/author/matthias-lankhorst/">
 
@@ -251,30 +291,30 @@
   
   <meta property="twitter:card" content="summary">
   
-  <meta property="og:site_name" content="Isabela Le Bras @ WHOI">
+  <meta property="og:site_name" content="Le Bras Lab @ WHOI">
   <meta property="og:url" content="https://ilebras.github.io/author/matthias-lankhorst/">
-  <meta property="og:title" content="Matthias Lankhorst | Isabela Le Bras @ WHOI">
-  <meta property="og:description" content="Assistant Scientist&lt;br /&gt;Physical Oceanography Department"><meta property="og:image" content="https://ilebras.github.io/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="https://ilebras.github.io/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:title" content="Matthias Lankhorst | Le Bras Lab @ WHOI">
+  <meta property="og:description" content="Physical Oceanography Department"><meta property="og:image" content="https://ilebras.github.io/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_512x512_fill_lanczos_center_3.png">
+  <meta property="twitter:image" content="https://ilebras.github.io/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2019-06-01T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2021-01-01T00:00:00&#43;00:00">
   
-
-  
-
-
-
-
-  
-
 
   
 
 
 
 
+  
 
-  <title>Matthias Lankhorst | Isabela Le Bras @ WHOI</title>
+
+  
+
+
+
+
+
+  <title>Matthias Lankhorst | Le Bras Lab @ WHOI</title>
 
 </head>
 <body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
@@ -326,7 +366,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Isabela Le Bras @ WHOI</a>
+      <a class="navbar-brand" href="/">Le Bras Lab @ WHOI</a>
     </div>
     
 
@@ -339,7 +379,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Isabela Le Bras @ WHOI</a>
+      <a class="navbar-brand" href="/">Le Bras Lab @ WHOI</a>
     </div>
     
 
@@ -375,6 +415,35 @@
 
         <li class="nav-item">
           <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#people"><span>People</span></a>
         </li>
 
         
@@ -551,7 +620,7 @@
       <ul>
         
         <li>
-          <a href="/publication/frajka-williams-2019/">Atlantic Meridional Overturning Circulation: Observed Transport and Variability</a>
+          <a href="/publication/berx-2021/">Climate-Relevant Ocean Transport Measurements in the Atlantic and Arctic Oceans</a>
         </li>
         
       </ul>
@@ -585,10 +654,7 @@
 
     
     
-      <script async defer src="https://maps.googleapis.com/maps/api/js?key="></script>
-      
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/gmaps.js/0.4.25/gmaps.min.js" integrity="sha256-7vjlAeb8OaTrCXZkCNun9djzuB2owUsaO72kXaFDBJs=" crossorigin="anonymous"></script>
-      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
     
 
     
@@ -667,7 +733,7 @@
     
     
     
-    <script src="/js/academic.min.66c553246b0f279a03be6e5597f72b52.js"></script>
+    <script src="/js/academic.min.9393c87ec980e85bccf7cf21c9a8162e.js"></script>
 
     
 
@@ -683,7 +749,7 @@
   
 
   <p class="powered-by">
-    © 2020
+    © 2022
   </p>
 
   
