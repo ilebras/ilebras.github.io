@@ -3,10 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ilebras.github.io/authors/</loc>
-    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-09T15:18:51-04:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/</loc>
-    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-09T15:18:51-04:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/author/observing-ocean-circulation/</loc>
     <lastmod>2022-08-03T00:00:00+00:00</lastmod>
@@ -18,7 +18,28 @@
     <lastmod>2022-08-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/publication-type/2/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-09T15:18:51-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/publication/bilo-2022/</loc>
+    <lastmod>2022-08-09T15:18:51-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/f.-straneo/</loc>
+    <lastmod>2022-08-09T15:18:51-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/i.-aa.-le-bras/</loc>
+    <lastmod>2022-08-09T15:18:51-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/j.-holte/</loc>
+    <lastmod>2022-08-09T15:18:51-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/publication_types/</loc>
+    <lastmod>2022-08-09T15:18:51-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/publication/</loc>
+    <lastmod>2022-08-09T15:18:51-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/t.-c.-bilo/</loc>
+    <lastmod>2022-08-09T15:18:51-04:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/author/astrid-pacini/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
@@ -59,12 +80,6 @@
     <loc>https://ilebras.github.io/publication/li-2021-a/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ilebras.github.io/publication_types/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/publication/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ilebras.github.io/author/robert-s.-pickart/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -101,9 +116,6 @@
     <loc>https://ilebras.github.io/author/f.-li/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ilebras.github.io/author/f.-straneo/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ilebras.github.io/author/g.-han/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -114,9 +126,6 @@
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/author/i.-yashayaev/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/j.-holte/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/author/j.-karstensen/</loc>
@@ -267,9 +276,6 @@
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/tag/high-latitude/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/isabela-alexander-astiz-le-bras/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/tag/north-atlantic/</loc>
@@ -479,11 +485,17 @@
     <loc>https://ilebras.github.io/publication/bras-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ilebras.github.io/publication/le-bras-2019/</loc>
+    <lastmod>2022-08-09T15:18:42-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/isabela-alexander-astiz-le-bras/</loc>
+    <lastmod>2022-08-09T15:18:42-04:00</lastmod>
+  </url><url>
     <loc>https://ilebras.github.io/author/john-m.-toole/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-09T15:18:42-04:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/author/maike-sonnewald/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-09T15:18:42-04:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/tag/currents/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>

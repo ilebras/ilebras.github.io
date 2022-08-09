@@ -5,12 +5,20 @@
     <link>https://ilebras.github.io/publication/</link>
       <atom:link href="https://ilebras.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ilebras.github.io/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://ilebras.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Arrival of New Great Salinity Anomaly Weakens Convection in the Irminger Sea</title>
+      <link>https://ilebras.github.io/publication/bilo-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://ilebras.github.io/publication/bilo-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cyclonic Eddies in the West Greenland Boundary Current System</title>
@@ -89,6 +97,14 @@
       <link>https://ilebras.github.io/publication/bras-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://ilebras.github.io/publication/bras-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A barotropic vorticity budget for the subtropical north atlantic based on observations</title>
+      <link>https://ilebras.github.io/publication/le-bras-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ilebras.github.io/publication/le-bras-2019/</guid>
       <description></description>
     </item>
     
