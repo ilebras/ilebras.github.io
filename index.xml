@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Isabela Le Bras @ WHOI</title>
+    <title>Le Bras Lab @ WHOI</title>
     <link>https://ilebras.github.io/</link>
       <atom:link href="https://ilebras.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Isabela Le Bras @ WHOI</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <description>Le Bras Lab @ WHOI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Wed, 03 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ilebras.github.io/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_512x512_fill_lanczos_center_3.png</url>
-      <title>Isabela Le Bras @ WHOI</title>
+      <title>Le Bras Lab @ WHOI</title>
       <link>https://ilebras.github.io/</link>
     </image>
+    
+    <item>
+      <title>Western Irminger Sea Ventilation</title>
+      <link>https://ilebras.github.io/project/2022-irm-ventilation/</link>
+      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://ilebras.github.io/project/2022-irm-ventilation/</guid>
+      <description>&lt;p&gt;In the subpolar North Atlantic, globally significant quantities of carbon dioxide and oxygen enter the water column via dense water formation. In order for these carbon- and oxygen-rich waters to ventilate the deep ocean and affect global climate, however, they must be transported away from their formation sites. In the Irminger Sea&amp;rsquo;s western boundary current system, there are three potential pathways for high-oxygen waters into the deep ocean: (1) The boundary current may be ventilated directly to depths greater than 500m via down-front wind forcing; (2) Labrador Sea Water (LSW), which forms via deep convection in the Labrador and Irminger Basin interiors, drains into the boundary current; (3) Overflow waters spill over the Denmark Strait into the Irminger Sea, entraining LSW and other high-oxygen water masses along the way.&lt;/p&gt;
+&lt;p&gt;Using novel moored O2 measurements in the western Irminger Sea, we aim to quantify the amount of O2 that enters the boundary current through each pathway and elucidate the dynamics that govern each route. The moored O2 sensors were added to existing Overturning in the North Atlantic Program (OSNAP) moorings in summer 2020 in coordination with other O2 sensor deployments on OSNAP moorings across the Labrador Sea. We plan to examine how water masses evolve around the southern tip of Greenland using this combined dataset, as well as how deep water formation and variability couple with oxygen uptake throughout the subpolar North Atlantic.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This work is funded by NSF and is being undertaken in close collaboration with the NSF-funded GOHSNAP project, whose PIs are Jaime Palter, Roo Nicholson, Hilary Palevsky, and Dariia Atamanchuk.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Cyclonic Eddies in the West Greenland Boundary Current System</title>
@@ -71,16 +82,6 @@ predictability.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Oxygen cycling in the Irminger Sea</title>
-      <link>https://ilebras.github.io/project/2020-o2-irminger/</link>
-      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/project/2020-o2-irminger/</guid>
-      <description>&lt;p&gt;The high latitude North Atlantic has an outsized impact on global climate as it is one of the few regions where deep and intermediate water masses are formed. These water formation sites are the windows through which gases such as carbon dioxide and oxygen are transferred from the atmosphere to the ocean interior. While traditionally the Labrador Sea has been considered the primary location for convective mixing and gas uptake in the subpolar North Atlantic, in recent years deep convection has also occurred in the Irminger Sea, and observations have shown that processes in the Irminger Sea play a significant role in meridional overturning circulation variability. The variability in carbon dioxide and oxygen uptake in the region is likely also significant, yet has not been characterized to the extent that heat and freshwater fluxes have. The goal of work proposed here is to use observations from the Ocean Observatories Initiative Irminger Sea Global Node together with shipboard and profiling float observations to obtain a basin-wide view of oxygen cycling on seasonal to interannual time scales. We focus on oxygen as it is by far the most sampled biogeochemical variable in the region.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;This project is a new interdisciplinary collaboration between Isabela Le Bras, Roo Nicholson (WHOI), Hilary Palevsky (BC) and Leah McRaven (WHOI). Funding provided by WHOI Internal Burke OOI Innovation Fund.&lt;/strong&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Beaufort Gyre Observing System</title>
       <link>https://ilebras.github.io/project/2020-beaufort-gyre/</link>
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
@@ -111,6 +112,16 @@ predictability.&lt;/p&gt;
 &lt;p&gt;The 37N dataset would provide the oceanographic community with a full-depth AMOC dataset that complements existing cross-basin arrays: OSNAP (Overturning in the Subpolar North Atlantic Program) at 57N, and  RAPID (Rapid Climate Change) at  26.5N. This project will expand our understanding of the basin-wide character of the overturning circulation and its associated heat transport, as well as ground truth ocean models. Our methods for merging satellite and in situ observations may be applicable to other ocean regions, which would substantially increase the scope of the global overturning circulation observing system.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Funded by the National Aeronautics and Space Administration (NASA) Research Opportunities in Space and Earth Sciences (ROSES) Physical Oceanography program.
 Co-PI: Joshua Willis (JPL). Additional collaborators: Felix Landerer (JPL), Ian Fenty (JPL), and John Toole (WHOI).&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Oxygen cycling in the Irminger Sea</title>
+      <link>https://ilebras.github.io/project/2020-o2-irminger/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://ilebras.github.io/project/2020-o2-irminger/</guid>
+      <description>&lt;p&gt;The high latitude North Atlantic has an outsized impact on global climate as it is one of the few regions where deep and intermediate water masses are formed. These water formation sites are the windows through which gases such as carbon dioxide and oxygen are transferred from the atmosphere to the ocean interior. While traditionally the Labrador Sea has been considered the primary location for convective mixing and gas uptake in the subpolar North Atlantic, in recent years deep convection has also occurred in the Irminger Sea, and observations have shown that processes in the Irminger Sea play a significant role in meridional overturning circulation variability. The variability in carbon dioxide and oxygen uptake in the region is likely also significant, yet has not been characterized to the extent that heat and freshwater fluxes have. The goal of work proposed here is to use observations from the Ocean Observatories Initiative Irminger Sea Global Node together with shipboard and profiling float observations to obtain a basin-wide view of oxygen cycling on seasonal to interannual time scales. We focus on oxygen as it is by far the most sampled biogeochemical variable in the region.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This project is an interdisciplinary collaboration between Isabela Le Bras, Roo Nicholson (WHOI), Hilary Palevsky (BC) and Leah McRaven (WHOI). Funding provided by WHOI Internal Burke OOI Innovation Fund.&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     

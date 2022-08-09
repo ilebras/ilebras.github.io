@@ -2,13 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ilebras.github.io/authors/</loc>
+    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/</loc>
+    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/observing-ocean-circulation/</loc>
+    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/project/</loc>
+    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/project/2022-irm-ventilation/</loc>
+    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ilebras.github.io/publication-type/2/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/author/astrid-pacini/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/authors/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/author/ben-i.-moat/</loc>
@@ -30,9 +42,6 @@
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/author/isabela-a.-le-bras/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/author/m.-femke-de-jong/</loc>
@@ -239,23 +248,17 @@
     <loc>https://ilebras.github.io/publication/pacini-2020/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ilebras.github.io/author/isabela-le-bras/</loc>
-    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/project/</loc>
-    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ilebras.github.io/project/2020-snap-dragon/</loc>
     <lastmod>2020-08-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/project/2020-o2-irminger/</loc>
-    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/project/2020-beaufort-gyre/</loc>
     <lastmod>2020-08-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/project/2020-nasa-amoc/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/project/2020-o2-irminger/</loc>
+    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/tag/convection/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
@@ -571,7 +574,15 @@
   </url><url>
     <loc>https://ilebras.github.io/categories/</loc>
   </url><url>
+    <loc>https://ilebras.github.io/author/hiroki-nagao/</loc>
+  </url><url>
+    <loc>https://ilebras.github.io/author/isabela-le-bras/</loc>
+  </url><url>
     <loc>https://ilebras.github.io/join/</loc>
+  </url><url>
+    <loc>https://ilebras.github.io/author/megan-knight/</loc>
+  </url><url>
+    <loc>https://ilebras.github.io/author/nash-keyes/</loc>
   </url><url>
     <loc>https://ilebras.github.io/post/</loc>
   </url>
