@@ -2,11 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ilebras.github.io/authors/</loc>
-    <lastmod>2022-10-10T10:52:12-04:00</lastmod>
-  </url><url>
     <loc>https://ilebras.github.io/</loc>
-    <lastmod>2022-10-10T10:52:12-04:00</lastmod>
+    <lastmod>2023-06-24T12:23:44-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/publication/</loc>
+    <lastmod>2023-06-24T12:23:44-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/publication/zotero-16904/</loc>
+    <lastmod>2023-06-24T12:23:44-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/publication-type/2/</loc>
+    <lastmod>2023-06-24T12:23:41-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/ashley-arroyo/</loc>
+    <lastmod>2023-06-24T12:23:32-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/authors/</loc>
+    <lastmod>2023-06-24T12:23:43-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/dafydd-gwyn-evans/</loc>
+    <lastmod>2023-06-24T12:23:34-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/publication/arroyo-2023/</loc>
+    <lastmod>2023-06-24T12:23:32-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/isabela-a.-a.-le-bras/</loc>
+    <lastmod>2023-06-24T12:23:41-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/isabela-le-bras/</loc>
+    <lastmod>2023-06-24T12:23:43-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/publication/lebrasisabelaa-a-2023/</loc>
+    <lastmod>2023-06-24T12:23:41-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/mary-louise-timmermans/</loc>
+    <lastmod>2023-06-24T12:23:32-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/publication/evans-2023/</loc>
+    <lastmod>2023-06-24T12:23:34-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/n.-penny-holliday/</loc>
+    <lastmod>2023-06-24T12:23:34-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/publication_types/</loc>
+    <lastmod>2023-06-24T12:23:43-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/sarah-zimmermann/</loc>
+    <lastmod>2023-06-24T12:23:32-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/sheldon-bacon/</loc>
+    <lastmod>2023-06-24T12:23:34-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/william-williams/</loc>
+    <lastmod>2023-06-24T12:23:32-04:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/author/observing-ocean-circulation/</loc>
     <lastmod>2022-08-03T00:00:00+00:00</lastmod>
@@ -17,17 +65,50 @@
     <loc>https://ilebras.github.io/project/2022-irm-ventilation/</loc>
     <lastmod>2022-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ilebras.github.io/publication-type/2/</loc>
-    <lastmod>2022-10-10T10:52:12-04:00</lastmod>
+    <loc>https://ilebras.github.io/publication-type/4/</loc>
+    <lastmod>2023-06-24T12:23:43-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/alison-p.-chase/</loc>
+    <lastmod>2023-06-24T12:23:43-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/andrew-c.-reed/</loc>
+    <lastmod>2023-06-24T12:23:43-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/annie-bourbonnais/</loc>
+    <lastmod>2023-06-24T12:23:43-04:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/publication/bilo-2022/</loc>
     <lastmod>2022-08-09T15:18:51-04:00</lastmod>
   </url><url>
+    <loc>https://ilebras.github.io/author/cara-c.-m.-manning/</loc>
+    <lastmod>2023-06-24T12:23:43-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/christina-schallenberg/</loc>
+    <lastmod>2023-06-24T12:23:43-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/christopher-wingard/</loc>
+    <lastmod>2023-06-24T12:23:43-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/dariia-atamanchuk/</loc>
+    <lastmod>2023-06-24T12:23:43-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/ellen-m.-briggs/</loc>
+    <lastmod>2023-06-24T12:23:43-04:00</lastmod>
+  </url><url>
     <loc>https://ilebras.github.io/author/f.-straneo/</loc>
     <lastmod>2022-10-10T10:52:12-04:00</lastmod>
   </url><url>
+    <loc>https://ilebras.github.io/author/filipa-carvalho/</loc>
+    <lastmod>2023-06-24T12:23:43-04:00</lastmod>
+  </url><url>
     <loc>https://ilebras.github.io/author/h.-l.-johnson/</loc>
     <lastmod>2022-10-10T10:52:12-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/hilary-palevsky/</loc>
+    <lastmod>2023-06-24T12:23:43-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/hilde-oliver/</loc>
+    <lastmod>2023-06-24T12:23:43-04:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/author/i.-aa.-le-bras/</loc>
     <lastmod>2022-08-09T15:18:51-04:00</lastmod>
@@ -35,20 +116,56 @@
     <loc>https://ilebras.github.io/author/i.-a.-a.-le-bras/</loc>
     <lastmod>2022-10-10T10:52:12-04:00</lastmod>
   </url><url>
+    <loc>https://ilebras.github.io/author/ian-walsh/</loc>
+    <lastmod>2023-06-24T12:23:43-04:00</lastmod>
+  </url><url>
     <loc>https://ilebras.github.io/author/j.-callies/</loc>
     <lastmod>2022-10-10T10:52:12-04:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/author/j.-holte/</loc>
     <lastmod>2022-10-10T10:52:12-04:00</lastmod>
   </url><url>
-    <loc>https://ilebras.github.io/publication_types/</loc>
-    <lastmod>2022-10-10T10:52:12-04:00</lastmod>
+    <loc>https://ilebras.github.io/author/jennie-e.-rheuban/</loc>
+    <lastmod>2023-06-24T12:23:43-04:00</lastmod>
   </url><url>
-    <loc>https://ilebras.github.io/publication/</loc>
-    <lastmod>2022-10-10T10:52:12-04:00</lastmod>
+    <loc>https://ilebras.github.io/author/jennifer-batryn/</loc>
+    <lastmod>2023-06-24T12:23:43-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/jonathan-peter-fram/</loc>
+    <lastmod>2023-06-24T12:23:43-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/joseph-a.-needoba/</loc>
+    <lastmod>2023-06-24T12:23:43-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/kristen-e.-fogaren/</loc>
+    <lastmod>2023-06-24T12:23:43-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/merrie-beth-neely/</loc>
+    <lastmod>2023-06-24T12:23:43-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/michael-f.-vardaro/</loc>
+    <lastmod>2023-06-24T12:23:43-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/publication/palevsky-2022/</loc>
+    <lastmod>2023-06-24T12:23:43-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/rachel-eveleth/</loc>
+    <lastmod>2023-06-24T12:23:43-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/rob-fatland/</loc>
+    <lastmod>2023-06-24T12:23:43-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/roman-battisti/</loc>
+    <lastmod>2023-06-24T12:23:43-04:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/publication/lebras-2022/</loc>
     <lastmod>2022-10-10T10:52:12-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/sophie-clayton/</loc>
+    <lastmod>2023-06-24T12:23:43-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/susan-e.-hartman/</loc>
+    <lastmod>2023-06-24T12:23:43-04:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/author/t.-c.-bilo/</loc>
     <lastmod>2022-10-10T10:52:12-04:00</lastmod>
@@ -85,9 +202,6 @@
   </url><url>
     <loc>https://ilebras.github.io/author/michael-a.-spall/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/n.-penny-holliday/</loc>
-    <lastmod>2022-08-09T19:33:44-04:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/publication/li-2021-a/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
@@ -248,14 +362,11 @@
     <loc>https://ilebras.github.io/author/dagmar-kieke/</loc>
     <lastmod>2022-08-09T19:33:44-04:00</lastmod>
   </url><url>
-    <loc>https://ilebras.github.io/author/dariia-atamanchuk/</loc>
-    <lastmod>2022-08-09T19:33:47-04:00</lastmod>
-  </url><url>
     <loc>https://ilebras.github.io/author/david-a.-smeed/</loc>
     <lastmod>2022-08-09T19:33:44-04:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/author/david-nicholson/</loc>
-    <lastmod>2022-08-09T19:33:47-04:00</lastmod>
+    <lastmod>2023-06-24T12:23:33-04:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/author/denis-volkov/</loc>
     <lastmod>2022-08-09T19:33:44-04:00</lastmod>
@@ -272,9 +383,6 @@
     <loc>https://ilebras.github.io/author/gustavo-j.-goni/</loc>
     <lastmod>2022-08-09T19:33:44-04:00</lastmod>
   </url><url>
-    <loc>https://ilebras.github.io/author/hilary-palevsky/</loc>
-    <lastmod>2022-08-09T19:33:47-04:00</lastmod>
-  </url><url>
     <loc>https://ilebras.github.io/publication/le-bras-2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -287,14 +395,11 @@
     <loc>https://ilebras.github.io/tag/inverse-methods/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ilebras.github.io/author/isabela-le-bras/</loc>
-    <lastmod>2022-08-09T19:33:47-04:00</lastmod>
-  </url><url>
     <loc>https://ilebras.github.io/author/jaime-palter/</loc>
-    <lastmod>2022-08-09T19:33:47-04:00</lastmod>
+    <lastmod>2023-06-24T12:23:33-04:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/author/jannes-koelling/</loc>
-    <lastmod>2022-08-09T19:33:47-04:00</lastmod>
+    <lastmod>2023-06-24T12:23:33-04:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/author/johanna-baehr/</loc>
     <lastmod>2022-08-09T19:33:44-04:00</lastmod>
@@ -317,6 +422,9 @@
     <loc>https://ilebras.github.io/author/laura-de-steur/</loc>
     <lastmod>2022-08-09T19:33:44-04:00</lastmod>
   </url><url>
+    <loc>https://ilebras.github.io/publication/atamanchuk-2021-a/</loc>
+    <lastmod>2023-06-24T12:23:33-04:00</lastmod>
+  </url><url>
     <loc>https://ilebras.github.io/publication/atamanchuk-2021/</loc>
     <lastmod>2022-08-09T19:33:47-04:00</lastmod>
   </url><url>
@@ -324,9 +432,6 @@
     <lastmod>2022-08-09T19:33:44-04:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/author/martin-moritz/</loc>
-    <lastmod>2022-08-09T19:33:44-04:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/mary-louise-timmermans/</loc>
     <lastmod>2022-08-09T19:33:44-04:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/author/matthias-lankhorst/</loc>
@@ -446,232 +551,220 @@
     <loc>https://ilebras.github.io/tag/subpolar-circulation/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ilebras.github.io/publication/frajka-williams-2019/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/b.-i.-moat/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/c.-g.-piecuch/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/c.-mertens/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/c.-s.-meinen/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/c.-wilson/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/tag/carbon-storage/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/d.-a.-smeed/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/d.-kieke/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/d.-volkov/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/e.-frajka-williams/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/e.-l.-mcdonagh/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/g.-d.-mccarthy/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/g.-danabasoglu/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/g.-forget/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/g.-goni/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/h.-l.-bryden/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/i.-j.-ansorge/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/j.-baehr/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/j.-koelling/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/k.-a.-donohue/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/k.-e.-trenberth/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/l.-c.-jackson/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/m.-a.-srokosz/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/m.-lankhorst/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/m.-p.-chidichimo/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/m.-rhein/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/m.-van-den-berg/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/tag/meridional-overturning-circulation-moc/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/tag/observing-system-simulation-experiment-osse/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/tag/ocean-heat-content-ohc/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/p.-heimbach/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/r.-c.-perez/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/r.-hummels/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/s.-dong/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/s.-elipot/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/s.-speich/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/t.-lamont/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/tag/thermohaline-circulation-thc/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/u.-send/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/tag/atlantic-meridional-overturning-circulation/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/tag/deep-western-boundary-current/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/tag/irminger-sea/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/j.e.-hopkins/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/tag/mooring-array/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/n.p.-holliday/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/tag/transport-variability/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/publication/hopkins-2019/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/publication/lozier-2019/</loc>
-    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/a.-houk/</loc>
-    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/a.-l.-ramsey/</loc>
-    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/b.-j.-w.-greenan/</loc>
-    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/d.-j.-torres/</loc>
-    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/d.-p.-marshall/</loc>
-    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/f.-bahr/</loc>
-    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/g.-koman/</loc>
-    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/j.-fischer/</loc>
-    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/j.-yang/</loc>
-    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/j.-zhao/</loc>
-    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/l.-de-steur/</loc>
-    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/n.-mackay/</loc>
-    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/r.-g.-williams/</loc>
-    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/s.-f.-gary/</loc>
-    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ilebras.github.io/publication/bras-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/publication/le-bras-2019/</loc>
     <lastmod>2022-08-09T15:18:42-04:00</lastmod>
   </url><url>
+    <loc>https://ilebras.github.io/publication/lozier-2019/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/a.-houk/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/a.-l.-ramsey/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/tag/atlantic-meridional-overturning-circulation/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/publication/frajka-williams-2019/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/b.-i.-moat/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/b.-j.-w.-greenan/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/c.-g.-piecuch/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/c.-mertens/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/c.-s.-meinen/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/c.-wilson/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/tag/carbon-storage/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/d.-a.-smeed/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/d.-j.-torres/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/d.-kieke/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/d.-p.-marshall/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/d.-volkov/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/tag/deep-western-boundary-current/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/e.-frajka-williams/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/e.-l.-mcdonagh/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/f.-bahr/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/g.-d.-mccarthy/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/g.-danabasoglu/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/g.-forget/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/g.-goni/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/g.-koman/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/h.-l.-bryden/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/i.-j.-ansorge/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/tag/irminger-sea/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ilebras.github.io/author/isabela-alexander-astiz-le-bras/</loc>
     <lastmod>2022-08-09T15:18:42-04:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/j.-baehr/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/j.-fischer/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/j.-koelling/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/j.-yang/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/j.-zhao/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/j.e.-hopkins/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/author/john-m.-toole/</loc>
     <lastmod>2022-08-09T15:18:42-04:00</lastmod>
   </url><url>
+    <loc>https://ilebras.github.io/author/k.-a.-donohue/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/k.-e.-trenberth/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/l.-c.-jackson/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/l.-de-steur/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/m.-a.-srokosz/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/m.-lankhorst/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/m.-p.-chidichimo/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/m.-rhein/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/m.-van-den-berg/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ilebras.github.io/author/maike-sonnewald/</loc>
     <lastmod>2022-08-09T15:18:42-04:00</lastmod>
   </url><url>
+    <loc>https://ilebras.github.io/tag/meridional-overturning-circulation-moc/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/tag/mooring-array/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/n.-mackay/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/n.p.-holliday/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/tag/observing-system-simulation-experiment-osse/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/tag/ocean-heat-content-ohc/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/p.-heimbach/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/r.-c.-perez/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/r.-g.-williams/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/r.-hummels/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/s.-dong/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/s.-elipot/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/s.-f.-gary/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/s.-speich/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/t.-lamont/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/tag/thermohaline-circulation-thc/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/tag/transport-variability/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/publication/hopkins-2019/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/u.-send/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ilebras.github.io/tag/currents/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/tag/freshwater/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/n-penny-holliday/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/publication/le-bras-2018-b/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/tag/water-masses/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/publication-type/4/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/author/d.-sutherland/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/publication/sutherland-2018-x/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/tag/freshwater/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/author/g.-catania/</loc>
@@ -683,7 +776,13 @@
     <loc>https://ilebras.github.io/author/l.-stearns/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ilebras.github.io/author/n-penny-holliday/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ilebras.github.io/author/r.-jackson/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/publication/le-bras-2018-b/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/author/steven-r.-jayne/</loc>
@@ -695,22 +794,25 @@
     <loc>https://ilebras.github.io/publication/le-bras-2018/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ilebras.github.io/author/magdalena-andres/</loc>
-    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/michael-s.-mccartney/</loc>
-    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/publication/toole-2017-a/</loc>
-    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/terrence-m.-joyce/</loc>
-    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+    <loc>https://ilebras.github.io/tag/water-masses/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/publication-type/7/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/publication/le-bras-2017/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/magdalena-andres/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/michael-s.-mccartney/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/publication/toole-2017-a/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/terrence-m.-joyce/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/publication/le-bras-2017-b/</loc>
