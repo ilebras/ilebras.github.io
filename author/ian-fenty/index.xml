@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ian Fenty | Le Bras Lab @ WHOI</title>
+    <link>https://ilebras.github.io/author/ian-fenty/</link>
+      <atom:link href="https://ilebras.github.io/author/ian-fenty/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ian Fenty</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ilebras.github.io/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_512x512_fill_lanczos_center_3.png</url>
+      <title>Ian Fenty</title>
+      <link>https://ilebras.github.io/author/ian-fenty/</link>
+    </image>
+    
+    <item>
+      <title>The Atlantic Meridional Overturning Circulation at 35°N From Deep Moorings, Floats, and Satellite Altimeter</title>
+      <link>https://ilebras.github.io/publication/lebras-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://ilebras.github.io/publication/lebras-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
