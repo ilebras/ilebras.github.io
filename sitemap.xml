@@ -2,14 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ilebras.github.io/authors/</loc>
+    <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/</loc>
+    <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/project/2023-mezcal/</loc>
+    <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/author/observing-ocean-circulation/</loc>
+    <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ilebras.github.io/project/</loc>
+    <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ilebras.github.io/publication-type/2/</loc>
     <lastmod>2023-06-24T12:40:34-04:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/author/ashley-arroyo/</loc>
     <lastmod>2023-06-24T12:23:32-04:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/authors/</loc>
-    <lastmod>2023-06-24T12:40:34-04:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/author/dafydd-gwyn-evans/</loc>
     <lastmod>2023-06-24T12:23:34-04:00</lastmod>
@@ -34,9 +46,6 @@
   </url><url>
     <loc>https://ilebras.github.io/publication/lebrasisabelaa-a-2023/</loc>
     <lastmod>2023-06-24T12:23:41-04:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/</loc>
-    <lastmod>2023-06-24T12:40:34-04:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/author/mary-louise-timmermans/</loc>
     <lastmod>2023-06-24T12:23:32-04:00</lastmod>
@@ -64,12 +73,6 @@
   </url><url>
     <loc>https://ilebras.github.io/author/william-williams/</loc>
     <lastmod>2023-06-24T12:23:32-04:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/author/observing-ocean-circulation/</loc>
-    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilebras.github.io/project/</loc>
-    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ilebras.github.io/project/2022-irm-ventilation/</loc>
     <lastmod>2022-08-03T00:00:00+00:00</lastmod>
@@ -849,6 +852,8 @@
     <loc>https://ilebras.github.io/author/isabela-le-bras/</loc>
   </url><url>
     <loc>https://ilebras.github.io/join/</loc>
+  </url><url>
+    <loc>https://ilebras.github.io/author/leo-middleton/</loc>
   </url><url>
     <loc>https://ilebras.github.io/author/marta-faulkner/</loc>
   </url><url>
