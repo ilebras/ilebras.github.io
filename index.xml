@@ -5,12 +5,20 @@
     <link>https://ilebras.github.io/</link>
       <atom:link href="https://ilebras.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Le Bras Lab @ WHOI</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024</copyright><lastBuildDate>Mon, 03 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ilebras.github.io/images/icon_hu16769266502884584738.png</url>
       <title>Le Bras Lab @ WHOI</title>
       <link>https://ilebras.github.io/</link>
     </image>
+    
+    <item>
+      <title>Destratifying and Restratifying Instabilities During Down-Front Wind Events: A Case Study in the Irminger Sea</title>
+      <link>https://ilebras.github.io/publication/goldsworth-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://ilebras.github.io/publication/goldsworth-2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MEZCAL</title>
@@ -31,6 +39,14 @@
     </item>
     
     <item>
+      <title>Glacial Meltwater in the Current System of Southern Greenland</title>
+      <link>https://ilebras.github.io/publication/beaird-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://ilebras.github.io/publication/beaird-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Labrador Sea Water Spreading and the Atlantic Meridional Overturning Circulation</title>
       <link>https://ilebras.github.io/publication/lebrasisabelaa-a-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
@@ -39,7 +55,7 @@
     </item>
     
     <item>
-      <title>Mixing and Air– Sea Buoyancy Fluxes Set the Time-Mean Overturning Circulation in the Subpolar North Atlantic and Nordic Seas</title>
+      <title>Mixing and Air--Sea Buoyancy Fluxes Set the Time-Mean Overturning Circulation in the Subpolar North Atlantic and Nordic Seas</title>
       <link>https://ilebras.github.io/publication/evans-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://ilebras.github.io/publication/evans-2023/</guid>
@@ -126,6 +142,14 @@
       <link>https://ilebras.github.io/publication/le-bras-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://ilebras.github.io/publication/le-bras-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Much Arctic Fresh Water Participates in the Subpolar Overturning Circulation?</title>
+      <link>https://ilebras.github.io/publication/lebras-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ilebras.github.io/publication/lebras-2021/</guid>
       <description></description>
     </item>
     
