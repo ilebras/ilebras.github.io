@@ -5,20 +5,12 @@
     <link>https://ilebras.github.io/</link>
       <atom:link href="https://ilebras.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Le Bras Lab @ WHOI</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025</copyright><lastBuildDate>Mon, 03 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ilebras.github.io/images/icon_hu16769266502884584738.png</url>
       <title>Le Bras Lab @ WHOI</title>
       <link>https://ilebras.github.io/</link>
     </image>
-    
-    <item>
-      <title>Destratifying and Restratifying Instabilities During Down-Front Wind Events: A Case Study in the Irminger Sea</title>
-      <link>https://ilebras.github.io/publication/goldsworth-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/publication/goldsworth-2024/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>MEZCAL</title>
@@ -31,46 +23,6 @@
     </item>
     
     <item>
-      <title>Declining O2 in the Canada Basin Halocline Consistent With Physical and Biogeochemical Effects of Pacific Summer Water Warming</title>
-      <link>https://ilebras.github.io/publication/arroyo-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/publication/arroyo-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Glacial Meltwater in the Current System of Southern Greenland</title>
-      <link>https://ilebras.github.io/publication/beaird-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/publication/beaird-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Labrador Sea Water Spreading and the Atlantic Meridional Overturning Circulation</title>
-      <link>https://ilebras.github.io/publication/lebrasisabelaa-a-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/publication/lebrasisabelaa-a-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mixing and Air--Sea Buoyancy Fluxes Set the Time-Mean Overturning Circulation in the Subpolar North Atlantic and Nordic Seas</title>
-      <link>https://ilebras.github.io/publication/evans-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/publication/evans-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Atlantic Meridional Overturning Circulation at 35°N From Deep Moorings, Floats, and Satellite Altimeter</title>
-      <link>https://ilebras.github.io/publication/lebras-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/publication/lebras-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Western Irminger Sea Ventilation</title>
       <link>https://ilebras.github.io/project/2022-irm-ventilation/</link>
       <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
@@ -79,94 +31,6 @@
 &lt;p&gt;Using novel moored O2 measurements in the western Irminger Sea, we aim to quantify the amount of O2 that enters the boundary current through each pathway and elucidate the dynamics that govern each route. The moored O2 sensors were added to existing Overturning in the North Atlantic Program (OSNAP) moorings in summer 2020 in coordination with other O2 sensor deployments on OSNAP moorings across the Labrador Sea. We plan to examine how water masses evolve around the southern tip of Greenland using this combined dataset, as well as how deep water formation and variability couple with oxygen uptake throughout the subpolar North Atlantic.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;This work is funded by NSF and is being undertaken in close collaboration with the NSF-funded GOHSNAP project, whose PIs are Jaime Palter, Roo Nicholson, Hilary Palevsky, and Dariia Atamanchuk.&lt;/strong&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Arrival of New Great Salinity Anomaly Weakens Convection in the Irminger Sea</title>
-      <link>https://ilebras.github.io/publication/bilo-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/publication/bilo-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>OOI Biogeochemical Sensor Data Best Practices and User Guide. Version 1.0.0.</title>
-      <link>https://ilebras.github.io/publication/palevsky-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/publication/palevsky-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Slantwise Convection in the Irminger Sea</title>
-      <link>https://ilebras.github.io/publication/lebras-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/publication/lebras-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cyclonic Eddies in the West Greenland Boundary Current System</title>
-      <link>https://ilebras.github.io/publication/pacini-2021/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/publication/pacini-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Observation-based estimates of heat and freshwater exchanges from the subtropical North Atlantic to the Arctic</title>
-      <link>https://ilebras.github.io/publication/li-2021-a/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/publication/li-2021-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Subpolar North Atlantic western boundary density anomalies and the Meridional Overturning Circulation</title>
-      <link>https://ilebras.github.io/publication/li-2021/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/publication/li-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Climate-Relevant Ocean Transport Measurements in the Atlantic and Arctic Oceans</title>
-      <link>https://ilebras.github.io/publication/berx-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/publication/berx-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How Much Arctic Fresh Water Participates in the Subpolar Overturning Circulation?</title>
-      <link>https://ilebras.github.io/publication/lebras-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/publication/lebras-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linking Oxygen and Carbon Uptake with the Meridional Overturning Circulation Using a Transport Mooring Array</title>
-      <link>https://ilebras.github.io/publication/atamanchuk-2021-a/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/publication/atamanchuk-2021-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linking Oxygen and Carbon Uptake with the Meridional Overturning Circulation Using a Transport Mooring Array</title>
-      <link>https://ilebras.github.io/publication/atamanchuk-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/publication/atamanchuk-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mean Conditions and Seasonality of the West Greenland Boundary Current System near Cape Farewell</title>
-      <link>https://ilebras.github.io/publication/pacini-2020/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/publication/pacini-2020/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -229,110 +93,6 @@ Co-PI: Joshua Willis (JPL). Additional collaborators: Felix Landerer (JPL), Ian 
       <description>&lt;p&gt;The high latitude North Atlantic has an outsized impact on global climate as it is one of the few regions where deep and intermediate water masses are formed. These water formation sites are the windows through which gases such as carbon dioxide and oxygen are transferred from the atmosphere to the ocean interior. While traditionally the Labrador Sea has been considered the primary location for convective mixing and gas uptake in the subpolar North Atlantic, in recent years deep convection has also occurred in the Irminger Sea, and observations have shown that processes in the Irminger Sea play a significant role in meridional overturning circulation variability. The variability in carbon dioxide and oxygen uptake in the region is likely also significant, yet has not been characterized to the extent that heat and freshwater fluxes have. The goal of work proposed here is to use observations from the Ocean Observatories Initiative Irminger Sea Global Node together with shipboard and profiling float observations to obtain a basin-wide view of oxygen cycling on seasonal to interannual time scales. We focus on oxygen as it is by far the most sampled biogeochemical variable in the region.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;This project is an interdisciplinary collaboration between Isabela Le Bras, Roo Nicholson (WHOI), Hilary Palevsky (BC) and Leah McRaven (WHOI). Funding provided by WHOI Internal Burke OOI Innovation Fund.&lt;/strong&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Rapid Export of Waters Formed by Convection Near the Irminger Sea&#39;s Western Boundary</title>
-      <link>https://ilebras.github.io/publication/le-bras-2020/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/publication/le-bras-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A barotropic vorticity budget for the subtropical north atlantic based on observations</title>
-      <link>https://ilebras.github.io/publication/bras-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/publication/bras-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A barotropic vorticity budget for the subtropical north atlantic based on observations</title>
-      <link>https://ilebras.github.io/publication/le-bras-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/publication/le-bras-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Sea Change in Our View of Overturning in the Subpolar North Atlantic.</title>
-      <link>https://ilebras.github.io/publication/lozier-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/publication/lozier-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Atlantic Meridional Overturning Circulation: Observed Transport and Variability</title>
-      <link>https://ilebras.github.io/publication/frajka-williams-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/publication/frajka-williams-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Transport Variability of the Irminger Sea Deep Western Boundary Current from a Mooring Array</title>
-      <link>https://ilebras.github.io/publication/hopkins-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/publication/hopkins-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Estimating the Freshwater Flux from the Greenland Ice Sheet Workshop Report</title>
-      <link>https://ilebras.github.io/publication/sutherland-2018-x/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/publication/sutherland-2018-x/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seasonality of Freshwater in the East Greenland Current System From 2014 to 2016</title>
-      <link>https://ilebras.github.io/publication/le-bras-2018-b/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/publication/le-bras-2018-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Interaction of Recirculation Gyres and a Deep Boundary Current</title>
-      <link>https://ilebras.github.io/publication/le-bras-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/publication/le-bras-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamics of North Atlantic Western Boundary Currents</title>
-      <link>https://ilebras.github.io/publication/le-bras-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/publication/le-bras-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Moored Observations of the Deep Western Boundary Current in the NWAtlantic: 2004-2014</title>
-      <link>https://ilebras.github.io/publication/toole-2017-a/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/publication/toole-2017-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tracking Labrador Sea Water Property Signals along the Deep Western Boundary Current</title>
-      <link>https://ilebras.github.io/publication/le-bras-2017-b/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/publication/le-bras-2017-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Transport of Charged Particles by Adjusting Rf Voltage Amplitudes</title>
-      <link>https://ilebras.github.io/publication/karin-2012/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://ilebras.github.io/publication/karin-2012/</guid>
-      <description></description>
     </item>
     
   </channel>
