@@ -5,12 +5,22 @@
     <link>https://ilebras.github.io/project/</link>
       <atom:link href="https://ilebras.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025</copyright><lastBuildDate>Mon, 03 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025</copyright><lastBuildDate>Thu, 03 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ilebras.github.io/images/icon_hu7732e1026a0bb9a199bd2a822c780345_104731_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ilebras.github.io/images/icon_hu16769266502884584738.png</url>
       <title>Projects</title>
       <link>https://ilebras.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>GOHSNAP</title>
+      <link>https://ilebras.github.io/project/2025-gohsnap2.0/</link>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ilebras.github.io/project/2025-gohsnap2.0/</guid>
+      <description>&lt;p&gt;The subpolar North Atlantic is known to be a globally significant gateway for carbon dioxide and oxygen into the deep ocean. At the same time, climate models are unable to reproduce the observed global patterns of oxygen change, hindered largely by a dearth of year-round oxygen observations that target pathways into the interior North Atlantic and their dynamics. This project targets a better understanding of these ventilation pathways through the analysis of an unprecedented six-year moored oxygen time series on the Overturning in the Subpolar North Atlantic Program (OSNAP) across the Labrador and Irminger Seas. Our analysis is organized into three main areas. First, we intend to probe the coupling between ventilation and overturning for dissolved oxygen and inorganic carbon. We hypothesize that convection in the Labrador Sea contributes significantly to ventilation though it does not contribute to overturning strength and variability. Second, we plan to quantify the contribution of direct air-sea exchange within boundary currents to overall ventilation and investigate its sensitivity to freshwater anomalies along the boundary. Finally, we aim to characterize overflow water transformation from the Irminger to the Labrador Sea and identify sources of DSOW oxygen variability. Our interdisciplinary team is well positioned to carry out the proposed work, which includes the recovery of the moored oxygen sensors and their careful calibration, as we have demonstrated through the successful calibration and preliminary analysis of the first two years of observations. The proposed analysis will focus on the dynamics of the ventilation processes, the connections between the Irminger and Labrador Seas, and interannual variability during a time of emerging impact of freshwater on deep convection.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This work is funded by NSF with co-PIs Jaime Palter, Hilary Palevsky, Roo Nicholson, and Dariia Atamanchuk.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>MEZCAL</title>
